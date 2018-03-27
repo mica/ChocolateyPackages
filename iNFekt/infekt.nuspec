@@ -8,7 +8,8 @@
   <authors>syndicode</authors>
   <owners>mica</owners>
   <projectUrl>https://infekt.ws</projectUrl>
-  <packageSourceUrl>https://github.com/syndicodefront/infekt</packageSourceUrl>
+  <projectSourceUrl>https://github.com/syndicodefront/infekt</projectSourceUrl>
+  <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/iNFekt</packageSourceUrl>
   <bugTrackerUrl>https://github.com/syndicodefront/infekt/issues</bugTrackerUrl>
   <iconUrl>https://raw.githubusercontent.com/syndicodefront/infekt/master/release/PortableApps/App/AppInfo/appicon_128.png</iconUrl>
   <licenseUrl>https://raw.githubusercontent.com/syndicodefront/infekt/master/LICENSE.txt</licenseUrl>
