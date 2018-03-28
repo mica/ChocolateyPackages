@@ -1,0 +1,162 @@
+&About ...	(1)&About ...
+&Apply	(2)&Apply
+&Close Group	(3)&Close Group
+&Close Window	(4)&Close Window
+&Delete Profile	(5)&Delete Profile
+&Edit	(7)&Edit
+&Edit Profile ...	(6)&Edit Profile ...
+&Enable Profile	(8)&Enable Profile
+&Exit	(9)&Exit
+&Help	(10)&Help
+&Help...	(11)&Help...
+&Hide Group	(12)&Hide Group
+&Hide Window	(13)&Hide Window
+&Options	(14)&Options
+&Predefined Profiles	(15)&Predefined Profiles
+&Profiles	(16)&Profiles
+&Refresh Tray Icons	(17)&Refresh Tray Icons
+&Restore Group	(18)&Restore Group
+&Restore Window	(19)&Restore Window
+&Select Language	(19-1)&Select Language
+&Shell Icons	(20)&Shell Icons
+&Uninstall	(21)&Uninstall
+[Create new GUID]	(22)[Create new GUID]
+[No module information available]	(23)[No module information available]
+[Unable to get process information]	(24)[Unable to get process information]
+1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.	(25)1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.
+2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.	(26)2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.
+3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.	(27)3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.
+About ...	(28)About ...
+About TrayIt!	(29)About TrayIt!
+Activate status monitoring if message hook can not be installed	(30)Activate status monitoring if message hook can not be installed
+Active Profiles	(31)Active Profiles
+Advanced	(32)Advanced
+Always start minimized	(35)Always start minimized
+Application	(37)Application
+Application Name and GUID	(36)Application Name and GUID
+Are you sure you want to delete a locked entry?	(38)Are you sure you want to delete a locked entry?
+Are you sure?	(39)Are you sure?
+Available Profiles	(40)Available Profiles
+Basic	(41)Basic
+Can't save options - Profile does not exist anymore.	(42)Can't save options - Profile does not exist anymore.
+Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 	(43)Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 
+Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.	(44)Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.
+Class Filtering	(45)Class Filtering
+Compatibility	(46)Compatibility
+Complexity Filter	(47)Complexity Filter
+Console Window	(48)Console Window
+Create Tray Icon for the TrayIt application	(49)Create Tray Icon for the TrayIt application
+Current GUID	(50)Current GUID
+Delete Profile	(51)Delete Profile
+Di&sable Profile	(52)Di&sable Profile
+Disable Quick Minimize	(53)Disable Quick Minimize
+Disabled Profiles	(54)Disabled Profiles
+Do not create Tray Icon - minimize and hide window completely	(55)Do not create Tray Icon - minimize and hide window completely
+Edit &Profile	(56)Edit &Profile
+Edit Current Profile	(57)Edit Current Profile
+Enable extra processing for windows that can not be hooked	(58)Enable extra processing for windows that can not be hooked
+Enable functionallity to remove extra shell icons	(59)Enable functionallity to remove extra shell icons
+Enable Window Attributes menu	(60)Enable Window Attributes menu
+Enable/Disable Current Profile	(61)Enable/Disable Current Profile
+Enable/Disable Tray Icons for selected process	(62)Enable/Disable Tray Icons for selected process
+Error creating window class: 	(63)Error creating window class: 
+Error creating window: 	(64)Error creating window: 
+Error loading	(65)Error loading
+This window has no associated profile!	(65-1)This window has no associated profile!
+Error registering hook!	(66)Error registering hook!
+Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 	(67)Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 
+Exit TrayIt!, are you sure?	(68)Exit TrayIt!, are you sure?
+Export &Settings	(69)Export &Settings
+Extras	(70)Extras
+File	(71)File
+Find Window	(72)Find Window
+For the latest version of TrayIt! visit  http://www.trayit.com	(73)For the latest version of TrayIt! visit  http://www.trayit.com
+Group similar tray icons for each application	(74)Group similar tray icons for each application
+Grouping	(75)Grouping
+Groups	(76)Groups
+Handle SDI type applications like Excel, PowerPoint or MS Project	(77)Handle SDI type applications like Excel, PowerPoint or MS Project
+Help file not found!	(78)Help file not found!
+Help!	(79)Help!
+Hide application from the Taskbar all the time, keep tray icon only	(80)Hide application from the Taskbar all the time, keep tray icon only
+Hold <Shift> instead of <Ctrl> minimizing a window to the tray	(81)Hold <Shift> instead of <Ctrl> minimizing a window to the tray
+Hold the left mouse key when dragging the Finder Tool over the target window	(82)Hold the left mouse key when dragging the Finder Tool over the target window
+Icon GUID	(83)Icon GUID
+Invalid Window	(84)Invalid Window
+Load TrayIt! at Startup	(85)Load TrayIt! at Startup
+Lock (preserve) settings when changing 'Place in System Tray' status.	(86)Lock (preserve) settings when changing 'Place in System Tray' status.
+Make window layered to enable transparency	(87)Make window layered to enable transparency
+Make window topmost and always visible	(88)Make window topmost and always visible
+Match pattern below with the window class name 	(89)Match pattern below with the window class name 
+Match pattern below with the window title when creating a Tray icon	(90)Match pattern below with the window title when creating a Tray icon
+Maximize	(91)Maximize
+Minimize when in Foreground, activate when in Background	(92)Minimize when in Foreground, activate when in Background
+Minimize window on creation / when TrayIt! is started	(93)Minimize window on creation / when TrayIt! is started
+Minimize	(94)Minimize
+Miscellaneous	(95)Miscellaneous
+Modify Application Options	(96)Modify Application Options
+More	(97)More
+Name as it appears in the profile list	(98)Name as it appears in the profile list
+No profiles stored	(99)No profiles stored
+Only create Tray Icon for windows having children	(100)Only create Tray Icon for windows having children
+Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.	(101)Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.
+Place in System &Tray	(102)Place in System &Tray
+Place in System Tray!	(103)Place in System Tray!
+Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.	(104)Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.
+Please restart TrayIt! to activate new settings.	(105)Please restart TrayIt! to activate new settings.
+Please waitt .... Initialization in progress	(106)Please waitt .... Initialization in progress
+Profile	(107)Profile
+Profile(s)	(108)Profile(s)
+Profiles List	(109)Profiles List
+Profiles	(110)Profiles
+Quick Minimize	(111)Quick Minimize
+Refresh &Window List	(112)Refresh &Window List
+Refresh Icons	(113)Refresh Icons
+Refresh Profiles	(114)Refresh Profiles
+Refresh	(115)Refresh
+Safe mode - use an alternative slow algorithm to increase compatibility	(116)Safe mode - use an alternative slow algorithm to increase compatibility
+Select a new GUID for the Tray Icon:	(117)Select a new GUID for the Tray Icon:
+Select Profiles to Import	(118)Select Profiles to Import
+Enable compatibility mode supporting 64-bit Windows	(119)Enable compatibility mode supporting 64-bit Windows
+Set window attributes on creation / when TrayIt! is started	(120)Set window attributes on creation / when TrayIt! is started
+Shell Icons List	(121)Shell Icons List
+Shell Icons	(122)Shell Icons
+ShellIcons	(123)ShellIcons
+Show Currently Active Windows	(124)Show Currently Active Windows
+Show Profile List	(125)Show Profile List
+Show System Tray Icon in minimized state only	(126)Show System Tray Icon in minimized state only
+Show window handler in tooltips and listview	(127)Show window handler in tooltips and listview
+Standard definition file not found!	(128)Standard definition file not found!
+Startup	(129)Startup
+Support Visual Styles on Windows XP	(130)Support Visual Styles on Windows XP
+System will return to the standard Windows (c) behavior.	(131)System will return to the standard Windows (c) behavior.
+The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.	(132)The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.
+The required message hook notifications are missing. Try to reboot Windows!	(133)The required message hook notifications are missing. Try to reboot Windows!
+Title Filtering	(134)Title Filtering
+Toggle Profile	(135)Toggle Profile
+Toggle Tray Icons	(136)Toggle Tray Icons
+Topmost	(137)Topmost
+Translated to English by Igor Nys, 2007	(138)Translated to English by Igor Nys, 2007
+Transparency	(139)Transparency
+Tray Icon GUID	(140)Tray Icon GUID
+Tray Icon	(141)Tray Icon
+Tray	(142)Tray
+TrayApp	(143)TrayApp
+TrayIt! &Application ...	(144)TrayIt! &Application ...
+TrayIt! Application -- Please Wait	(145)TrayIt! Application -- Please Wait
+TrayIt! Application Options	(146)TrayIt! Application Options
+TrayIt! by Igor Nys	(147)TrayIt! by Igor Nys
+TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:	(148)TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:
+TrayIt! is checking notifications from other applications ...	(149)TrayIt! is checking notifications from other applications ...
+TrayIt! Minimizing Options	(150)TrayIt! Minimizing Options
+TrayIt! will be uninstalled and all settings will be removed.	(151)TrayIt! will be uninstalled and all settings will be removed.
+Uncheck the line to remove the shell icons	(152)Uncheck the line to remove the shell icons
+Use path below for the Tray Icon	(153)Use path below for the Tray Icon
+Use profile name as a tooltip for the tray icon	(154)Use profile name as a tooltip for the tray icon
+Use Single-click on the tray icon	(155)Use Single-click on the tray icon
+Welcome to TrayIt!	(156)Welcome to TrayIt!
+Window attributes	(157)Window attributes
+Window complexity	(158)Window complexity
+Window Options	(159)Window Options
+Windows	(160)Windows
+Wrong GUID format	(161)Wrong GUID format
+You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 	(162)You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 

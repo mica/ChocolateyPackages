@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+  <id>trayit</id>
+  <title>Tray It!</title>
+  <version>4.6.5.5</version>
+  <authors>Igor Nys</authors>
+  <owners>mica</owners>
+  <projectUrl>https://web.archive.org/web/20121115184816/http://www.teamcti.com/trayit/trayit.htm</projectUrl>
+  <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/TrayIt</packageSourceUrl>
+  <iconUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/TrayIt/icon.jpg</iconUrl>
+  <tags>minimize tray notification</tags>
+  <summary>Minimize windows to the system tray</summary>
+  <description>Tray It! is a lightweight application which runs in the background, allowing windows to be minimized to the notification area (instead of the taskbar) by right-clicking on the close button.
+
+## Note:
+Although it hasn't been updated since 2007, Tray It! still works on newer versions of Windows, except in the case of Universal Windows Platform apps (e.g. Edge), on which it has no effect.
+
+To have it run at startup, you'll find a setting under: Edit > Options > Load TrayIt! at Startup
+
+For more info, see: https://winaero.com/blog/minimize-apps-to-system-tray-notification-area-with-trayit
+  </description>
+</metadata>
+<files>
+  <file src="tools\chocolateyInstall.ps1" target="tools" />
+  <file src="tools\chocolateyUninstall.ps1" target="tools" />
+  <file src="tools\TrayIt!.exe" target="tools" />
+  <file src="tools\TrayIt4!.dll" target="tools" />
+  <file src="tools\readme.txt" target="tools" />
+  <file src="tools\lang\**\*.*" target="tools\lang" />
+</files>
+</package>
