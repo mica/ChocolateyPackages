@@ -25,9 +25,6 @@ For more info, see: https://winaero.com/blog/minimize-apps-to-system-tray-notifi
 <files>
   <file src="tools\chocolateyInstall.ps1" target="tools" />
   <file src="tools\chocolateyUninstall.ps1" target="tools" />
-  <file src="tools\TrayIt!.exe" target="tools" />
-  <file src="tools\TrayIt4!.dll" target="tools" />
-  <file src="tools\readme.txt" target="tools" />
-  <file src="tools\lang\**\*.*" target="tools\lang" />
+  <file src="tools\chocolateyBeforeModify.ps1" target="tools" />
 </files>
 </package>
