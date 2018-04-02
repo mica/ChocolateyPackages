@@ -1,8 +1,8 @@
 Install-ChocolateyZipPackage `
     -PackageName 'trayit' `
-    -Url 'https://raw.githubusercontent.com/mica/ChocolateyPackages/master/TrayIt/TrayIt.zip' `
+    -Url 'http://ec.ccm2.net/ccm.net/download/files/trayit-4.6.5.5.zip' `
     -UnzipLocation "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)" `
-    -Checksum '4B920F49B2DE4C49C9933DBFC7C79FC4A738625A15CCF73CC112D56D3CC53DDD' `
+    -Checksum '5B086BF87AFF1DC4F9D371A20CD929DBE2EAA156F43D4B40ECB9170F1868618E' `
     -ChecksumType 'sha256'
 
 Install-ChocolateyShortcut `
