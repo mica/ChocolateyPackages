@@ -1,0 +1,162 @@
+&About ...	Hakkýnda ...
+&Apply	Uygula
+&Close Group	Grubu Kapat
+&Close Window	Pencereyi Kapat
+&Delete Profile	Profili Sil
+&Edit	Düzenle
+&Edit Profile ...	Profili Düzenle ...
+&Enable Profile	Profili Aktif Et
+&Exit	Çýkýþ
+&Help	Yardým
+&Help...	Yardým...
+&Hide Group	Grubu Gizle
+&Hide Window	Pencereyi Gizle
+&Options	Seçenekler
+&Predefined Profiles	Öntanýmlý Profiller
+&Profiles	Profiller
+&Refresh Tray Icons	Simgeleri Yenile
+&Restore Group	Grubu Yeniden Yükle
+&Restore Window	Pencereyi Geri Yükle
+&Select Language	Dil Seç
+&Shell Icons	Bildirim Alaný Simgeleri
+&Uninstall	Kaldýr
+[Create new GUID]	[Yeni GUID Oluþtur]
+[No module information available]	[Uygun Modül Bilgisi Yok]
+[Unable to get process information]	[Ýþlem Bilgisi Alýnamadý]
+1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.	Bir Pencereyi Küçültürken Ayný Anda <Shift> Tuþuna Basarak Hemen Sistem Bildirim Alanýna Simge Durumuna Küçültebilirsiniz.
+2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.	Programý Sürekli Bildirim Alanýna Simge Olarak Göndermek Ýçin, Bir Önceki Adýmda Bildirim Alanýna Gönderilen Simgeye SAÐ Týklayýn. Açýlan Menüden "Bildirim Alanýna Yerleþtir"i Týklayýn.
+3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.	Bildirim Alanýna Gönderilen Bir Simgeye Sað Týklayýnca TrayIt! Menüsü Açýlýr. Bu Programý Sürekli Bildirim Alanýna Göndermek Ýçin "Bildirim Alanýna Yerleþtir"i Seçin.
+About ...	Hakkýnda ...
+About TrayIt!	TrayIt! Hakkýnda
+Activate status monitoring if message hook can not be installed	Mesaj Kancasý Kurulamazsa Durum Denetlemesini Aktif Et
+Active Profiles	Aktif Profiller
+Advanced	Geliþmiþ
+Always start minimized	Her Zaman Küçülterek Baþlat
+Application	Uygulama
+Application Name and GUID	Uygulama Adý ve GUID
+Are you sure you want to delete a locked entry?	Kilitlenmiþ Bir Giriþi Silmek Ýstediðinizden Emin misiniz?
+Are you sure?	Emin misiniz?
+Available Profiles	Uygun Profiller
+Basic	Basit
+Can't save options - Profile does not exist anymore.	Seçenekler Kaydedilemiyor - Profil Artýk Bulunmuyor.
+Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 	Uyumluluk Seçeneklerini Ancak Varsayýlan Seçeneklerle Sorun Yaðýyorsanýz Deðiþtirin Lütfen Sorunlarý igornys@writeme.com Adresine Bildirin. 
+Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.	Bu Ayarlarý Deðiþtirmenin Sorumuluðu Sizindir! Bir Pencereyi Tabakalandýrmak, MultiMedia ve Özel Görünümlü Uygulamalarýn Düzgün Çalýþmasýný Engelleyebilir.
+Class Filtering	Sýnýf Filtreleme
+Compatibility	Uyumluluk
+Complexity Filter	Karýþýklýk Filtresi
+Console Window	Konsol Penceresi
+Create Tray Icon for the TrayIt application	TrayIt! Uygulamasý Ýçin Simge Oluþtur
+Current GUID	Þuanki GUID
+Delete Profile	Profili Sil
+Di&sable Profile	Profili Deaktif Et
+Disable Quick Minimize	Hemen Küçültmeyi Engelle
+Disabled Profiles	Aktif Olmayan Profiller
+Do not create Tray Icon - minimize and hide window completely	Bildirim Alaný Simgesi Oluþturma - Pencereyi Küçült ve Tamamen Gizle
+Edit &Profile	Profili Düzenle
+Edit Current Profile	Þuanki Profili Düzenle
+Enable extra processing for windows that can not be hooked	Kancalanamayan Pencereler Ýçin Ekstra Uygulamayý Aktif Et
+Enable functionallity to remove extra shell icons	Ekstra Kabuk Simgelerini Kaldýrma Ýþlevini Aç
+Enable Window Attributes menu	Pencere Özellikler Menüsünü Kullan
+Enable/Disable Current Profile	Þunaki Profili Aktif/Deaktif Et
+Enable/Disable Tray Icons for selected process	Seçili Ýþlem Ýçin Bildirim Alaný Simgesini Aktif/Deaktif Et
+Error creating window class: 	Pencere Sýnýfýný Oluþturma Hatasý: 
+Error creating window: 	Pencere Oluþturma Hatasý: 
+Error loading	YÜkleme Hatasý
+This window has no associated profile!	Bu Pencereye Ýliþkin Profil Yok!
+Error registering hook!	Kancayý Kaydetme Hatasý!
+Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 	Pencere Sýnýfý ile Tam Eþleþme Varsayýlan Olarak Kullanýlýr. Þablon Eþleþtirme Aktifse, Sýnýf Ýsminde '*' ve '?' Kýsaltmalarýna Ýzin Verilir. 
+Exit TrayIt!, are you sure?	TrayIt! den Çýk, Emin misiniz?
+Export &Settings	Ayarlarý Ver
+Extras	Ekstralar
+File	Dosya
+Find Window	Pencere Bul
+For the latest version of TrayIt! visit  http://www.trayit.com	TrayIt! in Son Sürümü Ýçin http://www.trayit.com Adresine Bakýn
+Group similar tray icons for each application	Her Uygulama Ýçin Ayný Simgeleri Grupla
+Grouping	Gruplama
+Groups	Gruplar
+Handle SDI type applications like Excel, PowerPoint or MS Project	Excel, PowerPoint, MS Project gibi SDI Tipi Uygulamalarý Kontrol Et
+Help file not found!	Yardým Dosyasý Bulunamadý!
+Help!	Yardým!
+Hide application from the Taskbar all the time, keep tray icon only	Uygulamayý Hiçbir Zaman Görev Çubuðunda Gösterme, Bildirim Alanýnda Simge Göster
+Hold <Shift> instead of <Ctrl> minimizing a window to the tray	Bir Pencereyi Bildirim Alanýna Göndermek Ýçin <Ctrl> Yerine <Shift> Kullan
+Hold the left mouse key when dragging the Finder Tool over the target window	Hedef Pencere Üzerine Arama Aracýný Sürüklerken Sol Fare Tuþu Kullan
+Icon GUID	Simge GUID
+Invalid Window	Geçersiz Pencere
+Load TrayIt! at Startup	TrayIt! i Baþlangýçta Çalýþtýr
+Lock (preserve) settings when changing 'Place in System Tray' status.	'Bildirim Alanýna Yerleþtir' Durumunu Deðiþtirirken Önyüklemeli Ayarlarý Kilitle.
+Make window layered to enable transparency	Saydamlýðý Aktif Etmek Ýçin Pencereyi Tabakalandýr
+Make window topmost and always visible	Pencereyi En Üstte Tut ve Hep Göster
+Match pattern below with the window class name 	Alttaki Þablon ile Pencere Sýnýf Ýsmini Karþýlaþtýr 
+Match pattern below with the window title when creating a Tray icon	Simge Oluþtururken Alttaki Þablon ile Pencere Baþlýðýný Karþýlaþtýr
+Maximize	Büyüt
+Minimize when in Foreground, activate when in Background	Öndeyken Küçült, Arkaplandayken Aktif Et
+Minimize window on creation / when TrayIt! is started	Oluþturmada Pencereyi Küçült / TrayIt! Açýkken
+Minimize	Küçült
+Miscellaneous	Çeþitli
+Modify Application Options	Uygulama Seçeneklerini Düzenle
+More	Daha Fazla
+Name as it appears in the profile list	Profil Listesinde Bulunduðu Gibi Adlandýr
+No profiles stored	Profil Saklanmadý
+Only create Tray Icon for windows having children	Sadece Çocuðu Olan Pencereler Ýçin Simge oluþtur
+Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.	Þablon Pencere Baþlýðýnda Bir Ön Koþulla Karþýlaþtýrýlýr. Þablonlarda '*' ve '?' kýsaltmalarýna Ýzin Verilir. '^' Ýlk Sembol Olursa Þablonu Ters Çevirir. '|' Alternatifleri Ayýrýr.
+Place in System &Tray	BÝldirim Alanýna Yerleþtir
+Place in System Tray!	Bildirim Alanýna Yerleþtir!
+Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.	Unutmayýn ki Sað Týk Menüsü Sadece Standart Simgelerde Çalýþýr ve MS Media Player Gibi Görünümler Kullanmýyorsa Menü Göstermez.
+Please restart TrayIt! to activate new settings.	Yeni Ayarlarýn Aktif Olmasý Lütfen TrayIt! i Kapatýp Açýn.
+Please waitt .... Initialization in progress	Lütfen Bekleyin .... Baþlatýlýyor
+Profile	Profil
+Profile(s)	Profil(ler)
+Profiles List	Profil Listesi
+Profiles	Profiller
+Quick Minimize	Hýzlý Küçült
+Refresh &Window List	Pencere Listesini Yenile
+Refresh Icons	Simgeleri Yenile
+Refresh Profiles	Profilleri Yenile
+Refresh	Yenile
+Safe mode - use an alternative slow algorithm to increase compatibility	Güvenli Mod - Uyumluluðu Artýrmak Ýçin Alternatif ve Yavaþ Bir Alforitma Kullan
+Select a new GUID for the Tray Icon:	Simge Ýçin Yeni Bir GUID Seçin:
+Select Profiles to Import	Ýçe Aktarmak Ýçin Profilleri Seçin
+Enable compatibility mode supporting 64-bit Windows	64-bit Windows Desteði Ýçin Uyumluluk Modunu Aktif Et
+Set window attributes on creation / when TrayIt! is started	Oluþtururken Pencere Özelliklerini Ayarla / TrayIt! Açýkken
+Shell Icons List	Bildirim Alaný Simgeleri Listesi
+Shell Icons	Bildirim Alaný Simgeleri
+ShellIcons	Simgeler
+Show Currently Active Windows	Þuanki Aktif Pencereyi Göster
+Show Profile List	Profil Listesini Göster
+Show System Tray Icon in minimized state only	Bildirim Alaný Simgesini Sadece Küçültülmüþ Durumda Göster
+Show window handler in tooltips and listview	Ýpuçlarýnda ve Liste Görünümünde Pencere Kontrollerini Göster
+Standard definition file not found!	Standart Tanýmlama Dosyasý Bulunamadý!
+Startup	Baþlangýç
+Support Visual Styles on Windows XP	Windows XP de Görsel Efektleri Destekle
+System will return to the standard Windows (c) behavior.	Sistem Standart Windows (c) Davranýþýna Dönecek.
+The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.	Profiller Deaktif Durumda Görünecek. Aktif Etmek Ýçin 'Profiller' Bölümüne Gitmelisiniz.
+The required message hook notifications are missing. Try to reboot Windows!	Gerekli Mesaj Kancasý Bildirimleri Kayýp. Windowsu Yeniden Baþlatmayý Deneyin!
+Title Filtering	Baþlýk Filtreleme
+Toggle Profile	Profili Ýþaretle
+Toggle Tray Icons	Simgeleri Ýþaretle
+Topmost	Her Zaman Üstte
+Translated to English by Igor Nys, 2007	Türkçe'ye Çeviri: Fatih Görgülü (fatihgorgulu@msn.com) 2008
+Transparency	Saydamlýk
+Tray Icon GUID	Simge GUID
+Tray Icon	Bildirim Alaný Simgesi
+Tray	Bildirim Alaný
+TrayApp	(143)TrayApp
+TrayIt! &Application ...	TrayIt! Uygulamasý ...
+TrayIt! Application -- Please Wait	(145)TrayIt! Uygulamasý -- Lütfen Bekleyin
+TrayIt! Application Options	TrayIt! Uygulama Seçenekleri
+TrayIt! by Igor Nys	TrayIt! by Igor Nys
+TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:	TrayIt! Bildirim Alanýnda Bir Simge Oluþturur ve Pencereyi Görev Çubuðundan Gizler. TrayIt! i Kullanmanýn Çeþitli Yollarý Vardýr:
+TrayIt! is checking notifications from other applications ...	TrayIt! Uygulamadan Bildirimleri Kontrol Ediyor ...
+TrayIt! Minimizing Options	TrayIt! Küçültme Seçenekleri
+TrayIt! will be uninstalled and all settings will be removed.	TrayIt! ve Bütün Ayarlarý Kaldýrýlacak.
+Uncheck the line to remove the shell icons	Simgeyi Gizlemek Ýçin Ýþareti Kaldýrýn
+Use path below for the Tray Icon	Simge Ýçin Aþaðýdaki Yolu Kullan
+Use profile name as a tooltip for the tray icon	Simge Ýçin Profil Ýsmini Balon Bildirimi Olarak Kullan
+Use Single-click on the tray icon	Simge Ýçin Tek Týklama Kullan
+Welcome to TrayIt!	TrayIt! e Hoþgeldiniz!
+Window attributes	Pencere Özellikleri
+Window complexity	Pencere Karýþýklýðý
+Window Options	Pencere Seçenekleri
+Windows	Pencereler
+Wrong GUID format	Yanlýþ GUID Biçimi
+You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 	Yukardaki Listeden Sýkça Kullanýlan Uygulamalar Ýçin Profilleri Seçip Ýçe Aktarabilirsiniz. Listede Sadece Özel Kontrol Gerektiren Uygulamalar Bulunur.

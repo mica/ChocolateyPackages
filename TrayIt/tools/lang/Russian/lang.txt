@@ -1,0 +1,160 @@
+&About ...	&О Программе ...
+&Apply	&Применить
+&Close Group	&Закрыть группу окон
+&Close Window	&Закрыть окно
+&Delete Profile	&Стереть профиль
+&Edit	&Редактировать
+&Edit Profile ...	&Редактировать профиль ...
+&Enable Profile	&Разрешить профиль
+&Exit	&Завершить
+&Help	&Помощь
+&Help...	&Помощь...
+&Hide Group	&Скрыть группу окон
+&Hide Window	&Скрыть окно
+&Options	&Установки
+&Predefined Profiles	&Библиотека профилей
+&Profiles	&Профили
+&Refresh Tray Icons	&Обновить иконки
+&Restore Group	&Восстановить группу окон
+&Restore Window	&Восстановить окна
+&Select Language	Выбор языка
+&Shell Icons	&Иконки в трэе
+&Uninstall	&Удалить программу
+[Create new GUID]	[Создать новый GUID]
+[No module information available]	[Информация о модуле недоступна]
+[Unable to get process information]	[Информация о процессе недоступна]
+1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.	1. Для быстрой минимизации в системный трэй достаточно просто держать нажатой кнопку <Shift> нажимая на кнопку минимизации окна.
+2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.	2. Создание профиля приложения позволяет минимизировать в системный трэй вместо панели задач. Выберите “Поместить в системный трэй” из контекстного меню, появлящемся при щелчке правой кнопкой мышки на иконку в системном трэе.
+3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.	3. Простой доступ к конфигурации приложения можно получить используя контекстное меню на кнопке минимизации окна приложения.
+About ...	О программе ...
+About TrayIt!	О программе TrayIt!
+Activate status monitoring if message hook can not be installed	Разрешить мониторинг если сообщения окна не могут быть перехвачены 
+Active Profiles	Актививные профили
+Advanced	Редко используемые
+Always start minimized	Всегда стартовать TrayIt! минимизированным
+Application	Приложение
+Application Name and GUID	Название приложения и идентификатор профиля
+Are you sure you want to delete a locked entry?	Вы уверены, что хотите удалить защищенный профиль?
+Are you sure?	Вы уверены?
+Available Profiles	Доступные профили
+Basic	Основные
+Can't save options - Profile does not exist anymore.	Не могу сохранить установки, профиль больше не существует.
+Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 	Изменяйте опции совместимости только если у вас есть проблемы с установками по умолчанию. О проблемах сообщайте igornys@writeme.com 
+Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.	 Изменение атрибута послойного отображения окон может привести к неправильной работе приложения!.
+Class Filtering	Филтр по классу окна
+Compatibility	Совместимость
+Complexity Filter	Фильтр сложности окна
+Console Window	Окно консольного приложения
+Create Tray Icon for the TrayIt application	Создать иконку в трэе для программы TrayIt! 
+Current GUID	Текущий GUID
+Delete Profile	Удалить профиль
+Di&sable Profile	Сделать профиль неактивным
+Disable Quick Minimize	Запретить быструю минимизацию
+Disabled Profiles	 Пассивные профили
+Do not create Tray Icon - minimize and hide window completely	Минимизировать окно и полностью скрыть
+Edit &Profile	Редактировать профиль
+Edit Current Profile	Редактировать текущий профиль
+Enable extra processing for windows that can not be hooked	Разрешить обработку если мониторинг сообщений невозможен 
+Enable functionallity to remove extra shell icons	Разрешить функциональность по удалению иконок в трэе 
+Enable Window Attributes menu	Разрешить меню установки атрибутов окна  
+Enable/Disable Current Profile	Активировать/Пассивировать профиль
+Enable/Disable Tray Icons for selected process	Разрешить/Удалить иконки в трэе для выбранного процесса
+Error creating window class: 	Ошибка создания класса окна: 
+Error creating window: 	Ошибка создания окна: 
+Error loading (65)Ошибка загрузки
+&This window has no associated profile!	Профиль асоциированный с окном не существует!
+Error registering hook!	Невозможно активировать мониторинг сообщений (Message hook)!
+Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 	По умолчанию используется точное сравнение с классом окна. Переключение по образцу, позволяет использовать в маске символы '*' и '?'. 
+Exit TrayIt!, are you sure?	Завершить TrayIt!, вы уверены?
+Export &Settings	Сохранить установки
+Extras	Дополнительно
+File	Файл
+Find Window	Найти Окно
+For the latest version of TrayIt! visit  http://www.trayit.com	Последняя версия программы доступна на  http://www.trayit.com
+Group similar tray icons for each application	Группировать иконки в трэе для одинаковых приложений
+Grouping	Группировка
+Groups	Группы
+Handle SDI type applications like Excel, PowerPoint or MS Project	Обрабатка SDI приложений SDI таких как Excel, PowerPoint,  MS Project
+Help file not found!	Файл помощи не найден!
+Help!	Помощь!
+Hide application from the Taskbar all the time, keep tray icon only	Полностью скрыть приложения из строки задач, оставить только иконку
+Hold <Shift> instead of <Ctrl> minimizing a window to the tray	Минимизировать в трэй при нажатой <Shift> вместо <Ctrl>
+Hold the left mouse key when dragging the Finder Tool over the target window	Держите нажатой левую кнопку мыши и натяните иконку поиска на окно
+Icon GUID	 GUID Иконки
+Invalid Window	Окно не существует!
+Load TrayIt! at Startup	Автоматически запускать TrayIt!
+Lock (preserve) settings when changing 'Place in System Tray' status.	Сохранять  профиль при переключении меню 'Поместить в Трэй'.
+Make window layered to enable transparency	Разрешить послойное отображение 
+Make window topmost and always visible	Установить окно поверх других. 
+Match pattern below with the window class name 	Использовать образец при фильтрации по классу окна 
+Match pattern below with the window title when creating a Tray icon	Фильтровать по заголовку окна
+Maximize	Maximize
+Minimize when in Foreground, activate when in Background	Активировать, когда в фоне, минимизировать когда активно 
+Minimize window on creation / when TrayIt! is started	Минимизация окна в момент создания или при старте TrayIt!
+Minimize	Минимизировать
+Miscellaneous	Разное
+Modify Application Options	Изменить установки приложение
+More	Дополнительные
+Name as it appears in the profile list	Название появляющееся в списке профилей
+No profiles stored	Нет запомненных профилей
+Only create Tray Icon for windows having children	Создавать иконки в трэе только для сложных окон
+Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.	Включать окна, подстрока в заголовке которых совпадает с образцом. В образце можно использовать символы '*' and '?', '|' разделяет альтернативные образцы,’^’ в начале строки изменяет значение фильтра на противоположное.
+Place in System &Tray	Создать иконку в системном трэе
+Place in System Tray!	 Создать иконку в системном трэе!
+Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.	4. Конфигурцию приложения можно также поменять, вызвав TrayIt! из контекстного меню в списке задач.
+Please restart TrayIt! to activate new settings.	Пожалуйста, перестартуйте TrayIt!.
+Please waitt .... Initialization in progress	Please waitt .... Initialization in progress
+Profile	Профили
+Profile(s)	Профилей(s)
+Profiles List	Список Профилей
+Profiles	Профили
+Quick Minimize	Быстрая минимизация
+Refresh &Window List	Обновить список окон 
+Refresh Icons	Обновить иконки
+Refresh Profiles	Обновить профили
+Refresh	Обновить
+Safe mode - use an alternative slow algorithm to increase compatibility	Безопасный режим – повысить совместимость за счет понижения скорости
+Select a new GUID for the Tray Icon:	Выберите GUID для иконки в трэе:
+Select Profiles to Import	Выберите профиль для загрузки
+Enable compatibility mode supporting 64-bit Windows	Установить режим совместимости c x64 Windows
+Set window attributes on creation / when TrayIt! is started	Установить атрибуты окна при старте TrayIt! или приложения  
+Shell Icons List	Список иконок в трэе
+Shell Icons	Иконки других приложений
+Show Currently Active Windows	Список активных приложений
+Show Profile List	Список профилей
+Show System Tray Icon in minimized state only	Показывать иконку в трэе только когда окно минимизировано 
+Show window handler in tooltips and listview	Отображать handle окна
+Standard definition file not found!	Файл стандартных профилей не найден!
+Startup	Действия на старте TrayIt!
+Support Visual Styles on Windows XP	Поддерживать темы для Windows XP
+The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.	Профили могут появляться в пассивном состоянии. Пассивный профиль можно активировать из контекстного меню в списке профилей 
+The required message hook notifications are missing. Try to reboot Windows!	Отсутствуют нотификации от других приложений – перестартуйте Windows!
+Title Filtering	Фильтрация по заголовку окна
+Toggle Profile	Переключить профиль
+Toggle Tray Icons	Перключить иконки в трэе
+Topmost	Поверх других окон
+Translated to English by Igor Nys, 2007	(Плохо) перевел на Русский Игорь Ныс, 2007
+Transparency	Прозрачность
+Tray Icon GUID	GUID иконки в трэе
+Tray Icon	Иконка в трэе
+Tray	Трэй
+TrayApp	TrayApp
+TrayIt! &Application ...	Вызвать TrayIt! приложение ...
+TrayIt! Application -- Please Wait	TrayIt! Application -- Please Wait
+TrayIt! Application Options	TrayIt! Установки приложения
+TrayIt! by Igor Nys	TrayIt! by Igor Nys
+TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:	Программа TrayIt! позволят минимизировать любое приложение в системный трэй и скрыть его из панели задач.:
+TrayIt! is checking notifications from other applications ...	TrayIt! Проверяет наличие сообщений от других приложений ...
+TrayIt! Minimizing Options	TrayIt! Опции минимизации.
+TrayIt! will be uninstalled and all settings will be removed.	Полностью удалить TrayIt! и все установки?
+Uncheck the line to remove the shell icons	Уберите пометку в строке для удаления иконок выбранного приложения
+Use path below for the Tray Icon	 Использовать путь к файлу для иконки в трэе 
+Use profile name as a tooltip for the tray icon	Использовать имя профиля для сообщений-подсказок на иконках
+Use Single-click on the tray icon	Активировать приложение одиночным щелчком мыши
+Welcome to TrayIt!	Добро пожаловать!
+Window attributes	Атрибуты окна
+Window complexity	Сложность окна
+Window Options	Установки окна
+Windows	Окна
+Wrong GUID format	Ошибочный формат GUID
+You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 	Список включает наиболее часто встречающиеся приложения, минимизация которых требует специальной обработки. 

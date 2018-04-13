@@ -10,12 +10,13 @@
   <projectUrl>https://web.archive.org/web/20121115184816/http://www.teamcti.com/trayit/trayit.htm</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/TrayIt</packageSourceUrl>
   <iconUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/TrayIt/icon.jpg</iconUrl>
+  <licenseUrl>https://web.archive.org/web/20121115184816/http://www.teamcti.com/trayit/trayit.htm</licenseUrl>
   <tags>minimize tray notification</tags>
   <summary>Minimize windows to the system tray</summary>
   <description>Tray It! is a lightweight application which runs in the background, allowing windows to be minimized to the notification area (instead of the taskbar) by right-clicking on the close button.
 
 ## Note:
-Although it hasn't been updated since 2007, Tray It! still works on newer versions of Windows, except in the case of Universal Windows Platform apps (e.g. Edge), on which it has no effect.
+Although it hasn't been updated since 2008, Tray It! still works on newer versions of Windows, except in the case of Universal Windows Platform apps (e.g. Edge), on which it has no effect.
 
 To have it run at startup, you'll find a setting under: Edit > Options > Load TrayIt! at Startup
 
@@ -26,5 +27,11 @@ For more info, see: https://winaero.com/blog/minimize-apps-to-system-tray-notifi
   <file src="tools\chocolateyInstall.ps1" target="tools" />
   <file src="tools\chocolateyUninstall.ps1" target="tools" />
   <file src="tools\chocolateyBeforeModify.ps1" target="tools" />
+  <file src="tools\lang\**\*.*" target="tools\lang" />
+  <file src="tools\TrayIt!.exe" target="tools" />
+  <file src="tools\TrayIt4!.dll" target="tools" />
+  <file src="tools\README.txt" target="tools" />
+  <file src="tools\LICENCE.txt" target="tools" />
+  <file src="tools\VERIFICATION.txt" target="tools" />
 </files>
 </package>

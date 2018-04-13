@@ -1,0 +1,19 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+The embedded software has been downloaded from an official download link listed on <http://download.cnet.com/TrayIt/3000-2094_4-75728730.html>
+and can be verified like this:
+
+1. Download and extract the following zip file: 
+  <http://download.cnet.com/TrayIt/3000-2094_4-75728730.html>
+
+2. You can use one of the following methods to obtain the checksum:
+  - Use powershell function 'Get-Filehash'
+  - Use chocolatey utility 'checksum.exe'
+
+  checksum type: SHA256
+  TrayIt!.exe checksum: 5F5C2DDC5531AD796ADD91D7882FA4AFB437468B5F37454FA4BB3729E93E7668
+  TrayIt4!.dll checksum: 5366F447CE37EE206E06A6C50642279B8BE56D337D7225D9B1AD7FB410D9B8E3
+
+File 'LICENSE.txt' is obtained from <https://web.archive.org/web/20121115184816/http://www.teamcti.com/trayit/trayit.htm>

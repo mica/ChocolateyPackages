@@ -1,0 +1,165 @@
+&About ...	&Informazioni su ...
+&Apply	&Applica
+&Close Group	&Chiudi Gruppo
+&Close Window	&Chiudi Finestra
+&Delete Profile	&Elimina Profilo
+&Edit	Modifica
+&Edit Profile ...	&Modifica Profilo ...
+&Enable Profile	&Abilita Profilo
+&Exit	&Esci
+&Help	&Aiuto
+&Help...	&Aiuto...
+&Hide Group	&Nascondi Gruppo
+&Hide Window	&Nascondi Finestra
+&Options	&Opzioni
+&Predefined Profiles	&Profili predefiniti
+&Profiles	&Profili
+&Refresh Tray Icons	&Aggiorna Icone del Tray
+&Restore Group	&Ripristina Gruppo
+&Restore Window	&Ripristina Finestra
+&Select Language	&Seleziona Lingua
+&Shell Icons	Icone della &Shell
+&Uninstall	&Disinstalla
+[Create new GUID]	[Crea nuova GUID]
+[No module information available]	[Informazioni sul modulo non disponibili]
+[Unable to get process information]	[Impossibile recuperare informazioni sul processo]
+1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.	1. Si può mettere temporaneamente una finestra nel 'System Tray' tenendo premuto il tasto <Shift> mentre la si riduce ad icona.
+2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.	2. Per mantenere permanentemente una finestra nel 'System Tray', cliccare con il tasto destro del mouse sulla icona corrispondente create nel passo precedente e selezionare la voce "Sposta nel System Tray" nel menù.
+3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.	3. Cliccando con il tasto destro del mouse sul simbolo 'Riduci a icona' di una finestra apparirà il menù contestuale di TrayIt! per questa finestra. Selezionare la voce "Sposta nel System Tray" in questo menù per mantere sempre la finestra nel 'System Tray'.
+About ...	Informazioni ...
+About TrayIt!	Informazioni su TrayIt!
+Activate status monitoring if message hook can not be installed	Attiva il monitoraggio dello stato se l'hook dei messaggi non può essere installato
+Active Profiles	Profili attivi
+Advanced	Avanzate
+Always start minimized	Avvia sempre ridotto a icona
+Application	Applicazione
+Application Name and GUID	Nome Applicazione e GUID
+Are you sure you want to delete a locked entry?	Sei sicuro di voler eliminare una voce bloccata?
+Are you sure?	Sei sicuro?
+Available Profiles	Profili disponibili
+Basic	Base
+Can't save options - Profile does not exist anymore.	Impossibile salvare le opzioni - Il profilo non è più esistente.
+Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 	Cambiare le opzioni di compatibiltà solo se si incontrano problemi con i valori predefiniti. Per favore riportare i problemi a igornys@writeme.com 
+Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.	Cambiare queste impostazioni a proprio rischio! Rendere una finestra 'stratificata' può causare il funzionamento non corretto di applicazioni 'multimediali' e 'Skinned'
+Class Filtering	Filtraggio Classi
+Compatibility	Compatibilità
+Complexity Filter	Complessità Filtro
+Console Window	Console Window
+Create Tray Icon for the TrayIt application	Crea l'icona nel tray per l'applicazione TrayIt!
+Current GUID	GUID corrente
+Delete Profile	Elimina Profilo
+Di&sable Profile	Di&sabilita Profilo
+Disable Quick Minimize	Disabilita la riduzione ad icona rapida
+Disabled Profiles	Profili disabilitati
+Do not create Tray Icon - minimize and hide window completely	Non crea l'icona nel tray - minimizza e nasconde completamente la finestra
+Edit &Profile	Modifica &Profilo
+Edit Current Profile	Modifica del Profilo corrente
+Enable extra processing for windows that can not be hooked	Abilita 'extra processing' per le finestre che non possono essere 'agganciate'
+Enable functionallity to remove extra shell icons	Abillita la funzionalità per rimuovere icone 'extra shell'
+Enable Window Attributes menu	Abilita il menù di attributi di finestra
+Enable/Disable Current Profile	Abilta/Disabilita il Profilo corrente
+Enable/Disable Tray Icons for selected process	Abilita/Disabilita le icone nel tray per i processi selezionati
+Error creating window class: 	Errore nella creazione della classe finestra: 
+Error creating window: 	Errore in creazione finestra: 
+Error loading	Errore in caricamento
+This window has no associated profile!	Questa finestra non è associata ad un profilo!
+Error registering hook!	Errore nella registrazione dell 'hook'!
+Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 	Il funzionamento predefinito è l'esatta corrispondenza con il nome della classe della finestra. Se il confronto con 'pattern' è abilitato, sono ammessi i simboli speciali '*' e '?' nel nome della classe. 
+Exit TrayIt!, are you sure?	Uscire da TrayIt!, sei sicuro?
+Export &Settings	Esporta Impo&stazioni
+Extras	Extra
+File	File
+Find Window	Cerca Finestra
+For the latest version of TrayIt! visit  http://www.trayit.com	Per l'ultima versione di TrayIt! visita  http://www.trayit.com
+Group similar tray icons for each application	Raggruppa icone del tray simili per ciascuna applicazione
+Grouping	Raggruppamento
+Groups	Gruppi
+Handle SDI type applications like Excel, PowerPoint or MS Project	Gestione applicazioni di tipo SDI come Excel, PowerPoint o MS Project
+Help file not found!	File di Aiuto non trovato!
+Help!	Aiuto!
+Hide application from the Taskbar all the time, keep tray icon only	Nascondere sempre dalla 'Barra della Applicazioni', mantere solo l'icona nel tray
+Hold <Shift> instead of <Ctrl> minimizing a window to the tray	Mantenre <Shift> invece di <Ctrl> minimizzando una finestra nel tray
+Hold the left mouse key when dragging the Finder Tool over the target window	Mantenere il tasto sinitro del mouse quando si trascina lo strumento 'Trova' sopra la finestra di destinazione
+Icon GUID	GUID Icona
+Invalid Window	Finestra non valida
+Load TrayIt! at Startup	Esegui TrayIt! all'avvio
+Lock (preserve) settings when changing 'Place in System Tray' status.	Preserva le impostazioni quando si cambia lo stato di 'Sposta in System Tray'
+Make window layered to enable transparency	Rendi la finestra 'stratificabile' per abilitare la trasparenza
+Make window topmost and always visible	Rendi la finestra sempre visibile in primo piano
+Match pattern below with the window class name 	Confrontare il 'pattern' sotto indicato con il nome della classe della finestra 
+Match pattern below with the window title when creating a Tray icon	Confrontare il 'pattern' con il titolo della finestra in creazione di icona nel Tray
+Maximize	Ripristina
+Minimize when in Foreground, activate when in Background	Riduci a icona quando in primo piano, ripristina quando in sotto fondo
+Minimize window on creation / when TrayIt! is started	Minimizza la finestra alla creazione / quando TrayIt! è avviato
+Minimize	Minimizza
+Miscellaneous	Varie
+Modify Application Options	Modifa le Opzioni dell'Applicazione
+More	Segue
+Name as it appears in the profile list	Il nome che comparirà nell'Elenco Profili
+No profiles stored	Nessun profilo registrato
+Only create Tray Icon for windows having children	Crea solo icone nel tray per finestre che hanno 'figlie'
+Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.	'Pattern' che combacia con una parte del titolo della finestra. I 'patterns' non differenziano le maiuscole dalle minuscole. Sono ammessi i caratteri '*' e '?' come simboli 'jolly'. Il carattere '^', come primo simbolo, inverte il 'pattern'. Il carattere '|' separe le alternative.
+Place in System &Tray	Sposta nel System &Tray
+Place in System Tray!	Sposta nel System Tray!
+Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.	Si noti che il menù contestuale funziona solo per il simbolo 'Riduci a icona' standard e non apparirà se il programma usa 'skins' come ad esempio MS Media player.
+Please restart TrayIt! to activate new settings.	Riavviare TrayIt! per attivare le nuove impostazioni.
+Please waitt .... Initialization in progress	Attendere prego .... Inizializzazione in corso
+Profile	Profilo
+Profile(s)	Profilo(i)
+Profiles List	Elenco Profili
+Profiles	Profili
+Quick Minimize	Riduzione a Icona Rapida
+Refresh &Window List	Aggio&rna Elenco Finestre
+Refresh Icons	Aggiorna Icone
+Refresh Profiles	Aggiorna Profili
+Refresh	Aggiorna
+Safe mode - use an alternative slow algorithm to increase compatibility	Modalità sicura - usa un algoritmo lento per aumentare la compatibilità
+Select a new GUID for the Tray Icon:	Seleziona un nuovo GUID per l'icona del tray:
+Select Profiles to Import	Seleziona il Profilo da Importare
+Enable compatibility mode supporting 64-bit Windows	Abilita la modalità compatibile per il supporto di Windows 64-bit
+Set window attributes on creation / when TrayIt! is started	Imposta gli attributi della finestra alla creazione / quando TrayIt! è avviato
+Shell Icons List	Elenco Icone della Shell
+Shell Icons	Incone della Shell
+ShellIcons	ShellIcons
+Show Currently Active Windows	Visualizza la Finestra correntemente attiva
+Show Profile List	Visualizza Elenco Profili
+Show System Tray Icon in minimized state only	Mostra l'icona del 'System Tray' solo nello stato ridotto
+Show window handler in tooltips and listview	Mostra gestore finestra nei suggerimenti e nella 'listview'
+Standard definition file not found!	File di definizione standard non trovato!
+Startup	Avvio
+Support Visual Styles on Windows XP	Supporto Stili Visuali in Windows XP
+System will return to the standard Windows (c) behavior.	Il sistema ritornerà al comportamento standard di Windows (c).
+The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.	I profili appariranno nello stato disabilitato. Andare in 'Modifica -> Profili' per abilitarli.
+The required message hook notifications are missing. Try to reboot Windows!	Gli 'agganci ai messaggi di notifica' richiesti sono mancanti. Provare a riavviare Windows!
+Title Filtering	Filtraggio per Titolo
+Toggle Profile	Alterna Profilo
+Toggle Tray Icons	Alterna le Icone del Tray
+Topmost	Primo Piano
+Translated to English by Igor Nys, 2007	Tradotto in italiano da Stefano Maran, 2007
+Transparency	Trasparenza
+Tray Icon GUID	GUID della Tray Icon
+Tray Icon	Icona Tray
+Tray	Tray
+TrayApp	TrayApp
+TrayIt! &Application ...	&Applicazione TrayIt! ...
+TrayIt! Application -- Please Wait	Applicazione TrayIt! -- Attendere prego
+TrayIt! Application Options	Opzioni di TrayIt!
+TrayIt! by Igor Nys	TrayIt! di Igor Nys
+TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:	TrayIt! crea una icona nel 'System Tray' e nasconde la finestra minimizzata dalla barre della applicazioni. Ci sono diversi modi di usare TrayIt!:
+TrayIt! is checking notifications from other applications ...	TrayIt! sta controllando le notifche da altre applicazioni ...
+TrayIt! Minimizing Options	Opzioni di 'Minimizzazione' di TrayIt!
+TrayIt! will be uninstalled and all settings will be removed.	TrayIt! sarà disinstallato e tutte le impostazioni verranno rimosse.
+Uncheck the line to remove the shell icons	Deselezionare la linea per rimuovere le icone della shell
+Use path below for the Tray Icon	Usare il percorso sotto indicato per l'icona nel tray
+Use profile name as a tooltip for the tray icon	Usare il nome del profilo come suggerimento per l'icona nel tray
+Use Single-click on the tray icon	Usa il click singolo sull'icona nel tray
+Welcome to TrayIt!	Benvenuto in TrayIt!
+Window attributes	Attributi Finestra
+Window complexity	Complessità Finestra
+Window Options	Opzioni Finestra
+Windows	Finestre
+Wrong GUID format	Formato GUID errato
+You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 	Si possono selezionare ed importare profili per le applicazioni più comuni presenti nell'elenco sopra riportato. L'elenco include solo le applicazioni che richiedono una gestione speciale. 
+
+&OK	OK
+&Cancel	Annulla

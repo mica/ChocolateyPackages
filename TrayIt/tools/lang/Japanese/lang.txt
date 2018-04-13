@@ -1,0 +1,165 @@
+&About ...	TrayIt! について(&A)
+&Apply	適用(&A)
+&Cancel	中止(&C)
+&Close Group	グループを閉じる(&C)
+&Close Window	ウィンドウを閉じる(&C)
+&Delete Profile	プロフィールを削除(&D)
+&Edit	編集(&E)
+&Edit Profile ...	プロフィール編集(&E)
+&Enable Profile	プロフィールを有効化(&E)
+&Exit	終了(&E)
+&Help	ヘルプ(&H)
+&Help...	ヘルプ(&H)
+&Hide Group	グループを隠す(&E)
+&Hide Window	ウィンドウを隠す(&H)
+&Options	オプション(&O)
+&Predefined Profiles	既定のプロフィール(&P)
+&Profiles	プロフィール(&P)
+&Refresh Tray Icons	トレイアイコン再読込(&R)
+&Restore Group	グループを復元(&R)
+&Restore Window	ウィンドウを復元(&R)
+&Select Language	表示用言語選択(&S)
+&Shell Icons	シェルアイコン(&S)
+&Uninstall	設定を削除して初期化(&U)
+[Create new GUID]	[新しいGUID作成]
+[No module information available]	[有効なモジュール情報なし]
+[Unable to get process information]	[プロセス情報取得不能]
+1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.	1. <Shift>キーを押しながらウィンドウを最小化することで、あらゆるウィンドウを一時的にシステムトレイに格納することができます。
+2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.	2. ウィンドウ最小化時はつねにシステムトレイに格納したい場合、前項の方法でシステムトレイに表示されたアイコンを右クリックして、ポップアップメニューの「システムトレイに表示」をチェックしてください
+3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.	3. ウィンドウの最小化ボタンか、トレイに表示されたアイコンを右クリックすれば、そのウィンドウのメニューがポップアップ表示されます。「システムトレイに表示」をチェックしている場合は、常にシステムトレイにアイコンが表示されています。 
+About ...	TrayIt! 情報
+About TrayIt!	TrayIt! について
+Activate status monitoring if message hook can not be installed	メッセージフックがインストールされないとき、ステータスのモニタを有効化
+Active Profiles	有効なプロフィール
+Advanced	上級設定
+Always start minimized	常に最小化状態で起動
+Application	TrayIt! アプリケーション
+Application Name and GUID	アプリケーションの名称とGUID
+Are you sure you want to delete a locked entry?	ロックしたエントリーを削除しますか？
+Are you sure?	実行しますか？
+Available Profiles	使用可能なプロフィール
+Basic	基本設定
+Cancel	中止
+Can't save options - Profile does not exist anymore.	オプション選択を保存不能 - プロフィールが存在しません
+Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 	デフォルト設定で問題が生じる場合、互換性オプションを変更してください。問題についての情報を igornys@writeme.com に報告してください。
+Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.	この設定変更は自己の責任で行ってください！ウィンドウの透過表示は、マルチメディアやスキンを使用するアプリケーションの正常な動作をさまたげるおそれがあります。
+Class Filtering	クラスのフィルタリング
+Compatibility	互換性
+Complexity Filter	ウィンドウ重積のフィルタ
+Console Window	コンソールウィンドウ
+Create Tray Icon for the TrayIt application	TrayIt のアイコンをトレイに表示
+Current GUID	選択アイテムの GUID
+Delete Profile	プロフィール削除
+Di&sable Profile	プロフィールを無効化(&S)
+Disable Quick Minimize	即時最小化を無効化
+Disabled Profiles	無効化されているプロフィール
+Do not create Tray Icon - minimize and hide window completely	トレイアイコンを表示しない - 最小化時およびウィンドウ非表示時
+Edit &Profile	プロフィール編集(&P)
+Edit Current Profile	選択アイテムのプロフィール編集
+Enable extra processing for windows that can not be hooked	フック不能なウィンドウの特殊処理を有効化
+Enable functionallity to remove extra shell icons	特殊なシェルアイコンの削除機能を有効化
+Enable Window Attributes menu	ウィンドウの属性メニューを有効化
+Enable/Disable Current Profile	プロフィールの有効化/無効化
+Enable/Disable Tray Icons for selected process	選択プロセスのトレイアイコン表示の有効化/無効化
+Error creating window class: 	ウィンドウクラス作成エラー： 
+Error creating window: 	ウィンドウ作成エラー： 
+Error loading	読取りエラー
+This window has no associated profile!	このウィンドウのプロフィールはありません！
+Error registering hook!	フック登録エラー！
+Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 	デフォルト設定はウィンドウのクラス名の完全一致。 '*' （アスタリスク）と '?' （クエスチョン） がクラス名のワイルドカードとして使用できます。
+Exit TrayIt!, are you sure?	TrayIt! を終了しますか？
+Export &Settings	設定をエクスポート(&S)
+Extras	特殊設定
+File	ファイル
+Find Window	ウィンドウを探す
+For the latest version of TrayIt! visit  http://www.trayit.com	TrayIt! の新バージョンをチェック http://www.trayit.com 
+Group similar tray icons for each application	同種アプリのトレイアイコンをグループ化
+Grouping	グループ化
+Groups	グループ
+Handle SDI type applications like Excel, PowerPoint or MS Project	 SDI タイプのアプリケーションをハンドル（Excel,PowerPoint,MS Project 等）
+Help file not found!	ヘルプファイルが見当たりません！
+Help!	ヘルプ！
+Hide application from the Taskbar all the time, keep tray icon only	常に、タスクバーボタンを表示せず、トレイアイコンのみを表示
+Hold <Shift> instead of <Ctrl> minimizing a window to the tray	<Shift>押しで最小化時にシステムトレイへ （チェックなしは<Ctrl>押し）
+Hold the left mouse key when dragging the Finder Tool over the target window	ファインダツールの選択ウィンドウへのドラッグ時は左マウスボタンを押し続けてください
+Icon GUID	アイコンの GUID
+Invalid Window	不正なウィンドウ
+Load TrayIt! at Startup	 TrayIt! をスタートアップに登録
+Lock (preserve) settings when changing 'Place in System Tray' status.	「システムトレイに表示」について変更を行ったときは、設定を保存する。
+Make window layered to enable transparency	ウィンドウを透過させる
+Make window topmost and always visible	ウィンドウを常に最前面表示する
+Match pattern below with the window class name 	ウィンドウのクラス名のマッチパターン 
+Match pattern below with the window title when creating a Tray icon	ウィンドウタイトルによるトレイアイコン表示のマッチパターン
+Maximize	最大化
+Minimize when in Foreground, activate when in Background	最前面にあるときは最小化、背後に隠れているときはアクティブ化
+Minimize window on creation / when TrayIt! is started	ウィンドウを最小化 / TrayIt! 起動時
+Minimize	最小化
+Miscellaneous	その他
+Modify Application Options	TrayIt! のオプションを変更
+More	詳細設定
+Name as it appears in the profile list	プロフィールリスト中の名称
+No profiles stored	プロフィールがありません
+Only create Tray Icon for windows having children	子ウィンドウを持つウィンドウのみトレイアイコンを表示
+Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.	ウィンドウタイトルの部分一致パターン：大文字と小文字を区別しない。 '*' （アスタリスク）と '?' （クエスチョン）をワイルドカードに使用。 '^' （キャレット）の接頭はパターンを含まないの意（補集合）。それぞれのパターンは '|' （パイプ）で区切ってください。
+Place in System &Tray	システムトレイに表示(&T)
+Place in System Tray!	システムトレイに表示！
+Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.	右クリックメニューが表示されるのは「標準的なボタン」が使用されている場合に限られます。スキンを使用しているプログラム（MS Media player 等）では、ポップアップは無効化されます。
+Please restart TrayIt! to activate new settings.	設定有効化のためにTrayIt! を再起動してください
+Please waitt .... Initialization in progress	初期化中...しばらくお待ちください
+Profile	プロフィール
+Profile(s)	プロフィール
+Profiles List	プロフィールリスト
+Profiles	プロフィール
+Quick Minimize	即時最小化
+Refresh &Window List	ウィンドウリスト更新(&W)
+Refresh Icons	アイコ更新
+Refresh Profiles	プロフィール更新
+Refresh	更新
+Safe mode - use an alternative slow algorithm to increase compatibility	セーフモード - 別途の低速なアルゴリズム使用して互換性を高める
+Select a new GUID for the Tray Icon:	トレイアイコンの新しい GUID を選択：
+Select Profiles to Import	インポートするプロフィールを選択
+Enable compatibility mode supporting 64-bit Windows	64 ビットマシンもサポートする互換モードを有効化に
+Set window attributes on creation / when TrayIt! is started	TrayIt! 起動時にウィンドウの属性を設定
+Shell Icons List	シェルアイコンリスト
+Shell Icons	シェルアイコン
+ShellIcons	シェルアイコン
+Show Currently Active Windows	現在アクティブなウィンドウを表示
+Show Profile List	プロフィールリストを表示
+Show System Tray Icon in minimized state only	最小化によってトレイに表示されたアイコンのみ表示
+Show window handler in tooltips and listview	ツールチップとリストビューのウィンドウハンドラを表示
+Standard definition file not found!	標準定義ファイルが見つかりません！
+Startup	スタートアップ
+Support Visual Styles on Windows XP	 Windows XP のビジュアルスタイルをサポート
+System will return to the standard Windows (c) behavior.	システムは標準のウィンドウ動作に戻ります
+The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.	プロフィールは無効状態です。「プロフィール」ダイアログから有効化してください。
+The required message hook notifications are missing. Try to reboot Windows!	必要なメッセージフック通知がありません。Windows システムを再起動してください
+Title Filtering	タイトルのフィルタリング
+Toggle Profile	プロフィール切換え
+Toggle Tray Icons	トレイアイコン切換え
+Topmost	最前面表示
+Translated to English by Igor Nys, 2007	Translated to Japanese by 麻袋(Asabukuro), 2007
+Trancparency	ウィンドウの透過
+Transparency	透過度
+Tray Icon GUID	トレイアイコンの GUID
+Tray Icon	トレイアイコン
+Tray	トレイ
+TrayApp	トレイアプリ
+TrayIt! &Application ...	TrayIt! を表示(&A)
+TrayIt! Application -- Please Wait	TrayIt! アプリケーション -- 暫時お待ちを
+TrayIt! Application Options	TrayIt! アプリケーション オプション
+TrayIt! by Igor Nys	TrayIt! 作者 Igor Nys
+TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:	TrayIt! は任意ウィンドウの最小化時にタスクバーボタンを表示せず、システムトレイにアイコンを表示します。TrayIt! にはいくつかの使用方法があります：
+TrayIt! is checking notifications from other applications ...	TrayIt! は他のアプリケーションからの通知をチェック中。
+TrayIt! Minimizing Options	TrayIt! 最小化 オプション
+TrayIt! will be uninstalled and all settings will be removed.	TrayIt! アンインストールのため全設定を削除
+Uncheck the line to remove the shell icons	ラインのチェックをはずすと全てのシェルアイコンを削除
+Use path below for the Tray Icon	トレイアイコンのパス
+Use profile name as a tooltip for the tray icon	トレイアイコンのツールチップにプロフィール名を使用
+Use Single-click on the tray icon	トレイアイコンのシングルクリックを使用
+Welcome to TrayIt!	TrayIt! にようこそ
+Window attributes	ウィンドウの属性
+Window complexity	ウィンドウの重積
+Window Options	ウィンドウ オプション
+Windows	ウィンドウ
+Wrong GUID format	不正なGUIDフォーマット
+You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 	上掲リストから大半のアプリケーションに使用可能なプロフィールを選択できます。リストには特殊なハンドリングを必要とするアプリケーションも含まれています。

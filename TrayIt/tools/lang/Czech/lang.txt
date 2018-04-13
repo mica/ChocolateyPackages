@@ -1,0 +1,165 @@
+&About ...	O programu
+&Apply	&Potvrdit
+&Cancel	&Zavøít
+&Close Group	&Zavøít skupinu
+&Close Window	&Zavøít okno
+&Delete Profile	&Smazat profil
+&Edit	&Upravit
+&Edit Profile ...	&Upravit profil ...
+&Enable Profile	&Zapnout profil
+&Exit	&Konec
+&Help	&Nápovìda
+&Help...	&Nápovìda...
+&Hide Group	&Schovat skupinu
+&Hide Window	&Schovat okno
+&Options	&Nastavení
+&Predefined Profiles	&Pøeddefinované profily
+&Profiles	&Profily
+&Refresh Tray Icons	&Znovu nahrát ikony lišty
+&Restore Group	&Obnovit skupinu
+&Restore Window	&Obnovit okno
+&Select Language	&Vybrat jazyk
+&Shell Icons	&Spuštìné ikony
+&Uninstall	&Odinstalovat
+[Create new GUID]	[Vytvoøit nové GUID]
+[No module information available]	[Nejsou dostupné informace modulu]
+[Unable to get process information]	[Nelze získat informace o procesu]
+1. You can temporarily put any window in the system tray by keeping down the <Shift> button  when minimizing the window.	1. Mùžete doèasnì dát nìjaké okno do systémové lišty podržením tlaèítka <Shift> když minimalizujete okno.
+2. To always keep window in the system tray when minimized, click with the RIGHT mouse button on the corresponding icon created in the tray in the previous step and  check "Place in System Tray" in the popup menu.	2. Pro stálé ponechání okna v systémové lištì, když je minimalizované, kliknìte pravým tlaèítkem myši na nabídky v odpovídající tray ikonì,vytvoøené v pøedcházejících krocích vybráním "Umístit do Systémové lišty" v popup nabídce.
+3. Clicking with the right mouse button on the minimize icon will bring TrayIt! context menu for this window. Just check "Place in System Tray" in the popup menu to make window always go to the tray.	3. Kliknutím pravým tlaèítkem myši mùžete vybrat v kontextovém menu minimalizování do ikony pomocí Trayit!. Staèí jen vybrat v popup nabídce "Umístit do Systémové lišty" a okno se skryje do lišty.
+About ...	O programu ...
+About TrayIt!	O programu TrayIt!
+Activate status monitoring if message hook can not be installed	Aktivovat stav monitorování zachycených zpráv pokud nelze instalovat
+Active Profiles	Aktivní profily
+Advanced	Pokroèilé
+Always start minimized	Vždy spustit minimalizovanì
+Application	Aplikace
+Application Name and GUID	Název aplikace a GUID
+Are you sure you want to delete a locked entry?	Jste si jist, že chcete vymazat uzamèený zápis?
+Are you sure?	Jste si jist?
+Available Profiles	Dostupné profily
+Basic	Základní
+Cancel	Zavøít
+Can't save options - Profile does not exist anymore.	Nelze uložit nastavení - profil ještì neexistuje.
+Change compatibility options only if you experiencing problems with the default settings. Please report problems to igornys@writeme.com 	Zmìnte kompatibilitu jen pokud máte problém s výchozím nastavením. Prosím informujte mì o problému e-mailem igornys@writeme.com 
+Change these settings at your own discretion! Making a window layered may prevent Multimedia and Skinned application from working properly.	Toto nastavení zmìnte jen po dùkladné rozvaze! Vytvoøení prùhledného okna mùže bránit Multimédiím a vzhledùm v øádném pracovním zobrazení.
+Class Filtering	Filtrování dle tøídy
+Compatibility	Kompatibilita
+Complexity Filter	Komplexní filtr
+Console Window	Ovládací panel okna
+Create Tray Icon for the TrayIt application	Vytvoøit ikonu pro aplikaci TrayIt
+Current GUID	Stávající GUID
+Delete Profile	Smazat profil
+Di&sable Profile	Vy&pnout profil
+Disable Quick Minimize	Vypnout minimalizování
+Disabled Profiles	Vypnuté profily
+Do not create Tray Icon - minimize and hide window completely	Nevytváøet tray ikonu - minimalizovat a skrýt okno úplnì
+Edit &Profile	Upravit &profil
+Edit Current Profile	Upravit aktuální profil
+Enable extra processing for windows that can not be hooked	Umožnit zvláštní proces pro okna, která nelze zpracovat TrayIt!
+Enable functionallity to remove extra shell icons	Umožnit odstranìní funkènì zvláštních spuštìných ikon
+Enable Window Attributes menu	Umožnit nabídku atributù oken
+Enable/Disable Current Profile	Zapne/Vypne aktuální profil
+Enable/Disable Tray Icons for selected process	Zapne/Vypne Tray ikonu vybraného procesu
+Error creating window class: 	Chyba pøi vytvoøení tøídy okna: 
+Error creating window: 	Chyba vytvoøení okna: 
+Error loading	Chyba zavádìní
+This window has no associated profile!	Toto okno nemá pøidružený profil!
+Error registering hook!	Chyba registrovaného zapojení!
+Exact match with the windows class name is used by default. If pattern matching is active,  '*' and '?' wildcards are allowed in the class name. 	Vynutit porovnání názvu okna tøídy s používaným výchozím názvem. Pokud odpovídající vzor je aktivní,  zkratky '*' a '?' pro jméno tøídy jsou dovoleny. 
+Exit TrayIt!, are you sure?	Opravdu se chcete zbavit TrayIt! ?
+Export &Settings	Export &nastavení
+Extras	Doplòky
+File	Soubor
+Find Window	Najít okno
+For the latest version of TrayIt! visit  http://www.trayit.com	Pro zjištìní nejnovìjší verze TrayIt! navštivte  http://www.trayit.com
+Group similar tray icons for each application	Seskupit podobné tray ikony pro jiné aplikace
+Grouping	Sdružování
+Groups	Skupiny
+Handle SDI type applications like Excel, PowerPoint or MS Project	Ovládat typy aplikací SDI jako Excel, PowerPoint nebo MS Project
+Help file not found!	Nápovìda nenalezena!
+Help!	Nápovìda!
+Hide application from the Taskbar all the time, keep tray icon only	Skrýt aplikaci z Úkolové lišty po celou dobu, zobrazit jen tray ikonu
+Hold <Shift> instead of <Ctrl> minimizing a window to the tray	Podržením <Shift> místo <Ctrl> minimalizovat okno do lišty
+Hold the left mouse key when dragging the Finder Tool over the target window	Podržením levého tlaèítka myši pøetáhnìte Vyhledávací nástroj na cílové okno
+Icon GUID	GUID ikony
+Invalid Window	Nesprávné okno
+Load TrayIt! at Startup	Spustit TrayIt! pøi startu
+Lock (preserve) settings when changing 'Place in System Tray' status.	Uzamknout (uchovat) nastavení pøi zmìnì stavu 'Umístit do Systémové lišty'.
+Make window layered to enable transparency	Zprùhlednit okno
+Make window topmost and always visible	Spouštìt okno na vrchu a vždy viditelnì
+Match pattern below with the window class name 	Porovnat vzor níže s tøídou a názvem okna 
+Match pattern below with the window title when creating a Tray icon	Pøi vytvoøení tray ikony jí nazvat podle vzoru níže
+Maximize	Maximalizovat
+Minimize when in Foreground, activate when in Background	Minimalizovat v popøedí, aktivovat na pozadí
+Minimize window on creation / when TrayIt! is started	Minimalizovat okno pøi vytvoøení / spuštìní TrayIt!
+Minimize	Minimalizovat
+Miscellaneous	Rùzné
+Modify Application Options	Úprava nastavení aplikace
+More	Další
+Name as it appears in the profile list	Nazvat profil stejnì, jako v seznamu profilù
+No profiles stored	Není uložen profil
+Only create Tray Icon for windows having children	Jen vytvoøit Tray ikonu pro windows dìtí
+Pattern matches a substring in the window title. Patterns are not case sensitive.  '*' and '?' wildcards are allowed. '^' as a first symbol inverts the pattern.  '|' separates the alternatives.	Upravte odpovídající podøetìzec v názvu okna. Vzory nerozlišují velká èi malá písmena.  '*' a '?' pro zkratky jsou povoleny. '^' jako první znak, obrátí vzor.  '|' (separátor) oddìlí alternativy.
+Place in System &Tray	Umístit do Systémové &lišty
+Place in System Tray!	Umístit do Systémové lišty!
+Please note that context menu will work only for the standard minimize icon and will not pop-up if the program use skins like MS Media player.	Prosím všimnìte si, že pokud program používá rùzné vzhledy, jako tøeba MS Media player, v kontextové nabídce lze pracovat jen pro standardní minimalizaci a pro nevyskakovací okna.
+Please restart TrayIt! to activate new settings.	Prosím restartujte TrayIt! pro aktivaci nových nastavení.
+Please waitt .... Initialization in progress	Prosím vyèkejte .... probíhá inicializace
+Profile	Profil
+Profile(s)	Profil(y)
+Profiles List	Seznam profilù
+Profiles	Profily
+Quick Minimize	Rychlá minimalizace
+Refresh &Window List	Znovu nahrát &seznam oken
+Refresh Icons	Znovu nahrát Ikony
+Refresh Profiles	Znovu nahrát profily
+Refresh	Znovu nahrát
+Safe mode - use an alternative slow algorithm to increase compatibility	Bezpeèný režim - použít alternativní pomalejší algoritmus pro zvýšení kompatibility
+Select a new GUID for the Tray Icon:	Vyberat nové GUID pro tray ikonu:
+Select Profiles to Import	Import vybraných profilù
+Enable compatibility mode supporting 64-bit Windows	Umožnit podporu kompatibility režimu 64-bit Windows
+Set window attributes on creation / when TrayIt! is started	Nastavit atributy oken pøi vytvoøení / spuštìní TrayIt!
+Shell Icons List	Seznam spuštìných ikon
+Shell Icons	Spuštìná ikona
+ShellIcons	Spuštìné ikony
+Show Currently Active Windows	Zobrazit aktuální aktivní okna
+Show Profile List	Zobrazí seznam profilù
+Show System Tray Icon in minimized state only	V minimalizovaném stavu nezobrazovat ikonu v systray
+Show window handler in tooltips and listview	Zobrazit okno manažera v nástrojových tipech a v seznamu zobrazených
+Standard definition file not found!	Standardní definièní soubor nenalezen!
+Startup	Spuštìní
+Support Visual Styles on Windows XP	Podpora vizuálních stylù Windows XP
+System will return to the standard Windows (c) behavior.	Systém se vrátí do standardního režimu Windows (c).
+The profiles will appear in the disabled state. You will need to go to the 'Profiles' dialog to enable it.	Profily se objeví jako vypnuté. Je nutné aby jste v 'Upravit' -> 'Profily' profil zapnuly.
+The required message hook notifications are missing. Try to reboot Windows!	Požadované oznámení není k dispozici. Pokuste se restartovat Windows!
+Title Filtering	Úvodní filtrování
+Toggle Profile	Vypnutí profilu
+Toggle Tray Icons	Vypnutí Tray ikony
+Topmost	Vždy na vrchu
+Translated to English by Igor Nys, 2007	Do èeštiny pøeložil Damned, e-mail: bartosfr@seznam.cz, 2007
+Trancparency	Prùhlednost
+Transparency	Prùhlednost
+Tray Icon GUID	GUID Tray ikony
+Tray Icon	Tray ikona
+Tray	Tray
+TrayApp	TrayAplikace
+TrayIt! &Application ...	Zobrazit okno aplikace TrayIt!
+TrayIt! Application -- Please Wait	AplikujiTrayIt! -- Prosím èekejte
+TrayIt! Application Options	Nastavení aplikace TrayIt!
+TrayIt! by Igor Nys	O TrayIt! od Igora Nyse
+TrayIt! creates an icon in System Tray and hides the minimized window from the taskbar. There are different ways to use TrayIt!:	TrayIt! skryje minimalizované okno z hlavního panelu a vytvoøí ikonu v Systémové lištì. Tam lze rùzným zpùsobem použit TrayIt!:
+TrayIt! is checking notifications from other applications ...	TrayIt! èeká na zprávy z dalších aplikací
+TrayIt! Minimizing Options	TrayIt! nastavení minimalizace
+TrayIt! will be uninstalled and all settings will be removed.	TrayIt! bude nyní odinstalován a všechny nastavené hodnoty budou odstranìny.
+Uncheck the line to remove the shell icons	Není vybrán žádný øádek pro vypnutí zobrazené ikony
+Use path below for the Tray Icon	Použít cestu zobrazenou níže pro tray ikonu
+Use profile name as a tooltip for the tray icon	Použít název profilu jako nástrojový tip tray ikony
+Use Single-click on the tray icon	Použít jeden klik na tray ikonu
+Welcome to TrayIt!	Vítejte v TrayIt!
+Window attributes	Atributy oken
+Window complexity	Komplikovanost oken
+Window Options	Nastavení oken
+Windows	Okna
+Wrong GUID format	Chybný formát GUID
+You can select and import profiles for the most common applications from the list above. The list includes only the applications that requere a special handling. 	Mùžete vybrat a importovat profily pro nejbìžnìjší aplikace ze seznamu nahoøe. Seznam obsahuje jen aplikace které vyžadují zvláštní zacházení. 
