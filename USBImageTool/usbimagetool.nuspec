@@ -10,7 +10,7 @@
   <projectUrl>https://www.alexpage.de/usb-image-tool/</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/USBImageTool</packageSourceUrl>
   <iconUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/USBImageTool/icon.png</iconUrl>
-  <licenseUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/USBImageTool/licence.txt</licenseUrl>
+  <licenseUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/USBImageTool/license.txt</licenseUrl>
   <tags>usb image</tags>
   <description>
 USB Image Tool can create images of USB flash drives and MP3 players, that are mounted as USB drives. It allows you switch between images with different music styles on your MP3 Player or to make an exact backup image of your USB Stick.
