@@ -4,7 +4,7 @@
 <metadata>
   <id>tonelib</id>
   <title>ToneLib</title>
-  <version>1.1.518</version>
+  <version>3.1.0</version>
   <authors>ToneLib</authors>
   <owners>mica</owners>
   <projectUrl>http://tonelib.net/</projectUrl>
@@ -15,13 +15,17 @@
   <description>The ToneLib is an easy-to-use application which allows you to see, change and save all the settings in your Zoom pedal through your computer. You can also create complete back-ups of all the tones in your device and go back to them whenever you like. You can even share your patches with others or use a cool patch someone else created.
 
 ## Supported Devices
-* Zoom G1on ver. 1.21
-* Zoom G1Xon ver. 1.21
-* Zoom B1on ver. 1.21
-* Zoom B1Xon ver. 1.21
-* Zoom MS-50G ver. 3.0
-* Zoom MS-60B ver. 2.0
-* Zoom MS-70CDR ver. 2.0
+* Zoom G5n
+* Zoom G3Xn
+* Zoom G3n
+* Zoom B3n
+* Zoom G1on
+* Zoom G1Xon
+* Zoom B1on
+* Zoom B1Xon
+* Zoom MS-50G
+* Zoom MS-60B
+* Zoom MS-70CDR
   </description>
 </metadata>
 <files>

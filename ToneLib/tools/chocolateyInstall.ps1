@@ -3,5 +3,5 @@ Install-ChocolateyPackage `
     'msi' `
     '/quiet' `
     'http://www.tonelib.net/download/Tonelib_Win.msi' `
-    -checksum 'CCD1999117BA7D94DCAFA8E85A0BE8BE4E916683471F69BC3F99C63056970E14' `
+    -checksum '63184ECF00BA3B8CEC0F364BC2EFF12671B00EC13CD6918C670D60377B7E08EB' `
     -checksumType 'sha256'
