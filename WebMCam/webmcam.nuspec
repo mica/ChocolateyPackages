@@ -9,7 +9,7 @@
   <owners>mica</owners>
   <projectUrl>https://github.com/thetarkus/WebMCam</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/WebMCam</packageSourceUrl>
-  <iconUrl>https://raw.githubusercontent.com/thetarkus/WebMCam/master/Resources/ModernRune.ico</iconUrl>
+  <iconUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/WebMCam/icon.png</iconUrl>
   <licenseUrl>https://github.com/thetarkus/WebMCam/blob/master/license.md</licenseUrl>
   <tags>screen capture recorder</tags>
   <description>Capture frames in real-time and save them as WebM</description>
