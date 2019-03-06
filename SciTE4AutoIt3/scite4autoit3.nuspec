@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+  <id>scite4autoit3</id>
+  <title>SciTE4AutoIt3</title>
+  <version>19.102.1901.0</version>
+  <authors>Neil Hodgson, Jos van der Zande</authors>
+  <projectUrl>https://www.autoitscript.com/site/autoit-script-editor/</projectUrl>
+  <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/SciTE4AutoIt3</packageSourceUrl>
+  <iconUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/SciTE4AutoIt3/icon.png</iconUrl>
+  <licenseUrl>http://www.scintilla.org/License.txt</licenseUrl>
+  <tags>ide editor autoit</tags>
+  <description>SciTE4AutoIt3 contains [SciTE](https://chocolatey.org/packages/scite), wrapped into a single installer with all needed configuration settings and lots of utility programs like [AutoIt3Wrapper](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/description.html), [SciTEConfig](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/SciTEConfig.html), [Tidy](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Tidy.html), [Au3Stripper](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Au3Stripper.html), etc to enhance SciTE for use with [AutoIt3](https://chocolatey.org/packages/autoit).</description>
+  <releaseNotes>https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/History.html</releaseNotes>
+  <dependencies>
+      <dependency id="autoit" />
+  </dependencies>
+</metadata>
+<files>
+  <file src="tools\chocolateyInstall.ps1" target="tools" />
+</files>
+</package>
