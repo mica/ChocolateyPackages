@@ -6,6 +6,7 @@
     <title>MiniTool Partition Wizard Free</title>
     <version>11.0.1</version>
     <authors>MiniTool Software Ltd.</authors>
+    <owners>dtgm, mica</owners>
     <projectUrl>https://www.partitionwizard.com/free-partition-manager.html</projectUrl>
     <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/PartitionWizard</packageSourceUrl>
     <docsUrl>https://www.partitionwizard.com/help/</docsUrl>
