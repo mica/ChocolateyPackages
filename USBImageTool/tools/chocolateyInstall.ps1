@@ -2,7 +2,7 @@ Install-ChocolateyZipPackage `
     -PackageName 'USBImageTool' `
     -Url 'http://www.alexpage.de/download/usbit/usbit.zip' `
     -UnzipLocation "$PSScriptRoot" `
-    -Checksum '9DF0BEDF6E933DAEB0976D4E302009920AB383A5B861D9D5CA3EFBDECA509D95' `
+    -Checksum '5226F8C8025CB2EE52B18F6541C008AFF7E891E45932E4CBF713E78B95D72B34' `
     -ChecksumType 'sha256'
 
 Install-ChocolateyShortcut `
