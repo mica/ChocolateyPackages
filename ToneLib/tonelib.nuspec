@@ -3,32 +3,18 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 <metadata>
   <id>tonelib</id>
-  <title>ToneLib</title>
-  <version>3.1.0</version>
+  <title>[Deprecated] ToneLib</title>
+  <version>3.1.0.001</version>
   <authors>ToneLib</authors>
   <owners>mica</owners>
   <projectUrl>http://tonelib.net/</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/ToneLib</packageSourceUrl>
-  <iconUrl>http://tonelib.net/wp-content/uploads/2018/03/cropped-logo_image-192x192.png</iconUrl>
-  <tags>zoom guitar effects pedal editor</tags>
-  <summary>Free editor for Zoom pedals</summary>
-  <description>The ToneLib is an easy-to-use application which allows you to see, change and save all the settings in your Zoom pedal through your computer. You can also create complete back-ups of all the tones in your device and go back to them whenever you like. You can even share your patches with others or use a cool patch someone else created.
-
-## Supported Devices
-* Zoom G5n
-* Zoom G3Xn
-* Zoom G3n
-* Zoom B3n
-* Zoom G1on
-* Zoom G1Xon
-* Zoom B1on
-* Zoom B1Xon
-* Zoom MS-50G
-* Zoom MS-60B
-* Zoom MS-70CDR
-  </description>
+  <tags></tags>
+  <summary></summary>
+  <description>ToneLib is now [ToneLib Zoom](https://chocolatey.org/packages/tonelib-zoom)</description>
+  <dependencies>
+    <dependency id="tonelib-zoom" />
+  </dependencies>
 </metadata>
-<files>
-  <file src="tools\chocolateyInstall.ps1" target="tools" />
-</files>
+<files />
 </package>
