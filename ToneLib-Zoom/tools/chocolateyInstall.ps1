@@ -4,7 +4,7 @@ Install-ChocolateyPackage `
     -SilentArgs '/quiet' `
     -Url 'https://www.tonelib.net/download/dnl1/Tonelib-Zoom-Win32.msi' `
     -Url64bit 'https://www.tonelib.net/download/dnl1/Tonelib-Zoom-Win64.msi' `
-    -checksum '314D271057D588955C750173ED33EDA8B1D9E7C0A3CD801190E07E26DC0DF162' `
+    -checksum 'A7780CD298F6D15C03A42A72B8AD740EE3EB67269A381D73F69D2F8A81101B31' `
     -checksumType 'sha256' `
-    -Checksum64 'B456BCD834627C8CC985F3401C1FB4012AD006FACF9B65B67C15FC0DAEADC9BA' `
+    -Checksum64 'ABDEE63FDB1C7D0988C5D8A3C4DBCE0D84FF8ACEA4B7717DC04A8A8B1F5D0554' `
     -ChecksumType64 'sha256'
