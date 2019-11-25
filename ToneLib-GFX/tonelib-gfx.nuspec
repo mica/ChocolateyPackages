@@ -4,16 +4,33 @@
 <metadata>
   <id>tonelib-gfx</id>
   <title>ToneLib GFX</title>
-  <version>3.9.9</version>
+  <version>4.0.1</version>
   <authors>ToneLib</authors>
   <owners>mica</owners>
-  <projectUrl>http://tonelib.net/</projectUrl>
+  <projectUrl>https://tonelib.net/gfx-overview/</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/ToneLib-GFX</packageSourceUrl>
   <iconUrl>https://tonelib.net/images/gfx/gfx_icon_image.png</iconUrl>
   <tags>guitar audio effects plugin vst</tags>
-  <summary>Free audio effects and amp modeling software</summary>
+  <summary>Audio effects and amp modeling software</summary>
   <description>
-**Tonelib GFX** is an amp and effects modeling software for electric guitar and bass. The Tonelib GFX features accurate recreations of vintage and modern amplifiers, speaker cabinets, microphones, and effects. The Tonelib GFX also supports 3rd party impulse responses (IRs), offering even greater tonal flexibility. The Tonelib GFX plug-in features broad compatibility with popular DAWs, offering powerful 64-bit performance on AU, VST and VST3 platforms. [Read more...](https://tonelib.net/gfx-overview/)
+What is Tonelib GFX?
+---
+ToneLib GFX is a collection of guitar amps, speaker cabinets and effects implemented in software for use with your computer, Windows PC, Mac or Linux. The software comes as a standalone application and as plug-ins for use with the most popular DAW (digital audio workstation) recording software.
+
+The plug-in and standalone versions offer the same function and sound, but the standalone version also offers a rhythm and backing track player, plus a built-in recorder so you can capture your ideas at the moment of inspiration. Both the standalone and plug-in versions are included when you install ToneLib GFX. Simply connect your guitar to your computer using an audio interface, and your computer is transformed into a powerful amp, effects and recording studio!
+
+ToneLifb GFX features
+---
+* Effects include 18 thunderously accurate amps, multiple overdrive, distortion, fuzz, compression and phaser pedals, plus clean boost, delay, reverb, acoustic simulation, wah, EQ, octaver, tremolo, vibrato, chorus, and flanger.
+* All ToneLib GFX gear is precision-modeled based on actual circuit diagrams of highly-sought-after, real-world products.
+* The oversampling is auto-adjusted to your session’s sample rate to save valuable CPU power while providing the most transparent sound possible.
+* Drag-and-drop to add or rearrange effects, or use keyboard shortcuts, with Undo/Redo support.
+* The entire ToneLib GFX chain can be easily saved, organized and recalled through the advanced built-in preset browser.
+* Remotely control ToneLib GFX via MIDI controller.
+* Tune using a high-precision tuner.
+* Keep time with a flexible metronome and rhythm player.
+* Jam along with backing tracks and practice at your pace by adjusting the tempo without affecting pitch.
+* When used in standalone mode, ToneLib GFX features a built-in recorder that makes recording ideas and songs a breeze.
   </description>
 </metadata>
 <files>
