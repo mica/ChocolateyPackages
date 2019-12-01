@@ -2,5 +2,5 @@ Install-ChocolateyPackage `
     -PackageName 'SciTE4AutoIt3' `
     -SilentArgs '/S' `
     -Url 'https://www.autoitscript.com/autoit3/scite/download/SciTE4AutoIt3.exe' `
-    -Checksum '7A8E6D23C225DC848CDAADD9DB13CE4C90F4DF7B3A903227C9F491CF857C4AE2' `
+    -Checksum 'D49C4302B89F619ABB1E319C4F016622AE133DF3925BB79B68550B2C8AC7F7F2' `
     -ChecksumType 'sha256'
