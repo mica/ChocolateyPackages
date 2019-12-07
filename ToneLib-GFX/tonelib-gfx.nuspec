@@ -9,8 +9,8 @@
   <owners>mica</owners>
   <projectUrl>https://tonelib.net/gfx-overview/</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/ToneLib-GFX</packageSourceUrl>
-  <iconUrl>https://tonelib.net/images/gfx/gfx_icon_image.png</iconUrl>
-  <tags>guitar audio effects plugin vst</tags>
+  <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/5210252e362530219a01c1050c925c0eb2951411/ToneLib-GFX/icon.png</iconUrl>
+  <tags>guitar audio effects plugin vst trial</tags>
   <summary>Audio effects and amp modeling software</summary>
   <description>
 What is Tonelib GFX?
