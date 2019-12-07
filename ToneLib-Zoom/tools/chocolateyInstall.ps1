@@ -1,3 +1,4 @@
+$ErrorActionPreference = 'Stop'
 Install-ChocolateyPackage `
     -PackageName 'tonelib-zoom' `
     -FileType 'msi' `

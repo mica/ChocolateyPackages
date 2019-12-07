@@ -9,7 +9,7 @@
   <owners>mica</owners>
   <projectUrl>http://tonelib.net/</projectUrl>
   <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/ToneLib-Zoom</packageSourceUrl>
-  <iconUrl>https://tonelib.net/images/zoom/zoom_icon_image.png</iconUrl>
+  <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/28fda81a6cb1613dcb73428b756ba43c2141a2ad/ToneLib-Zoom/icon.png</iconUrl>
   <tags>zoom guitar effects pedal editor</tags>
   <summary>Free editor for Zoom effects pedals</summary>
   <description>
