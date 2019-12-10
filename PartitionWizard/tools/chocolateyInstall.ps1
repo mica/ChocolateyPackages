@@ -1,6 +1,6 @@
 Install-ChocolateyPackage `
     -PackageName 'partitionwizard' `
     -SilentArgs '/VERYSILENT' `
-    -Url 'https://www.partitionwizard.com/download/v11/pw11-free.exe' `
-    -Checksum '865B9EA053915779C1CAD37D1B33B89920A2F06EAC273303A455C91F7D2BE423' `
+    -Url 'https://cdn2.minitool.com/download-center/release/products/pw/current-release/pw11-free-offline.exe' `
+    -Checksum '25DA58CEF11DD2F9C414D28886499419E45FD669EC1C2F179BD2F9D3028964BC' `
     -ChecksumType 'sha256'

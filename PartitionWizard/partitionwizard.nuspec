@@ -4,14 +4,14 @@
 <metadata>
     <id>partitionwizard</id>
     <title>MiniTool Partition Wizard Free</title>
-    <version>11.5.01</version>
+    <version>11.6.01</version>
     <authors>MiniTool Software Ltd.</authors>
     <owners>dtgm, mica</owners>
     <projectUrl>https://www.partitionwizard.com/free-partition-manager.html</projectUrl>
     <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/PartitionWizard</packageSourceUrl>
     <docsUrl>https://www.partitionwizard.com/help/</docsUrl>
     <licenseUrl>https://www.partitionwizard.com/terms_conditions.html</licenseUrl>
-    <iconUrl>https://raw.githubusercontent.com/mica/ChocolateyPackages/master/PartitionWizard/icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/80f8904b2bfb9523d4ab8c405fa5792c2dd6b6dc/PartitionWizard/icon.png</iconUrl>
     <tags>filesystem partition disk tools admin</tags>
     <summary>Free partition manager</summary>
     <description>
@@ -23,5 +23,6 @@ MiniTool Partition Wizard Free helps users to manage disks and partitions, check
 </metadata>
 <files>
     <file src="tools\chocolateyInstall.ps1" target="tools" />
+    <file src="tools\chocolateyBeforeModify.ps1" target="tools" />
 </files>
 </package>
