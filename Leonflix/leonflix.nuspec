@@ -13,7 +13,7 @@
     <tags>streaming video</tags>
     <summary>A multi-platform desktop app for finding media</summary>
     <description>Leonflix is a modular search tool for content. Its modules crawl video/file hosting websites, extracting the videos hosted on those sites for playback within Leonflix.</description>
-    <releaseNotes>[Changelog](https://www.reddit.com/r/leonflix/comments/d7zc7a/update_070_released/</releaseNotes>
+    <releaseNotes>[Changelog](https://www.reddit.com/r/leonflix/comments/d7zc7a/update_070_released/)</releaseNotes>
 </metadata>
 <files>
     <file src="tools\chocolateyInstall.ps1" target="tools" />
