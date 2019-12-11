@@ -5,6 +5,7 @@
     <id>leonflix</id>
     <title>Leonflix</title>
     <version>0.7.0</version>
+    <authors>Leonflix</authors>
     <owners>mica</owners>
     <projectUrl>https://leonflix.net/</projectUrl>
     <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/Leonflix</packageSourceUrl>
