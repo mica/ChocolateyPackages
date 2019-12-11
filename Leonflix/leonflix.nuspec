@@ -9,7 +9,6 @@
     <owners>mica</owners>
     <projectUrl>https://leonflix.net/</projectUrl>
     <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/Leonflix</packageSourceUrl>
-    <licenseUrl>https://www.partitionwizard.com/terms_conditions.html</licenseUrl>
     <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/bd45eb9d2959d872cb42425b166524a6b3edbde7/Leonflix/icon.png</iconUrl>
     <tags>streaming video</tags>
     <summary>A multi-platform desktop app for finding media</summary>
