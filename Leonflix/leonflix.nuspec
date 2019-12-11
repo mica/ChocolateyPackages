@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+    <id>leonflix</id>
+    <title>Leonflix</title>
+    <version>0.7.0</version>
+    <owners>mica</owners>
+    <projectUrl>https://leonflix.net/</projectUrl>
+    <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/Leonflix</packageSourceUrl>
+    <licenseUrl>https://www.partitionwizard.com/terms_conditions.html</licenseUrl>
+    <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/bd45eb9d2959d872cb42425b166524a6b3edbde7/Leonflix/icon.png</iconUrl>
+    <tags>streaming video</tags>
+    <summary>A multi-platform desktop app for finding media</summary>
+    <description>Leonflix is a modular search tool for content. Its modules crawl video/file hosting websites, extracting the videos hosted on those sites for playback within Leonflix.</description>
+    <releaseNotes>[Changelog](https://www.reddit.com/r/leonflix/comments/d7zc7a/update_070_released/</releaseNotes>
+</metadata>
+<files>
+    <file src="tools\chocolateyInstall.ps1" target="tools" />
+</files>
+</package>
