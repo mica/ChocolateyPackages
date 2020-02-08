@@ -4,7 +4,7 @@
 <metadata>
   <id>tonelib-zoom</id>
   <title>ToneLib Zoom</title>
-  <version>4.0.1</version>
+  <version>4.1.0</version>
   <authors>ToneLib</authors>
   <owners>mica</owners>
   <projectUrl>http://tonelib.net/</projectUrl>
@@ -12,6 +12,7 @@
   <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/28fda81a6cb1613dcb73428b756ba43c2141a2ad/ToneLib-Zoom/icon.png</iconUrl>
   <tags>zoom guitar effects pedal editor</tags>
   <summary>Free editor for Zoom effects pedals</summary>
+  <releaseNotes>https://tonelib.net/forums/threads/tonelib-zoom-4-1-0-is-available-for-download.6773/</releaseNotes>
   <description>
 Tonelib Zoom is an easy-to-use application which allows you to see, change and save all the settings in your Zoom guitar pedal ([see supported devices list](https://tonelib.net/tonelib-zoom-supported-devices/)) through your computer. You can also create complete back-ups of all the tones in your device and go back to them whenever you like. You can even share your patches with others or use a cool patch someone else created. [How to use...](https://tonelib.net/zoom-quick-start/)
   </description>
