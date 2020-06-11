@@ -4,5 +4,5 @@ Install-ChocolateyPackage `
     -FileType 'exe' `
     -SilentArgs '/silent' `
     -Url 'https://www.tonelib.net/download/ToneLib-GFX-Win64.exe' `
-    -checksum '5F27FF5616478845EC65DE8078187E9BB5BAACB33D4374985BEEC4F177A37C90' `
+    -checksum '5184503E21587B47D6F2EE420D3EC7E9AD1ECADC08FD555F0AF6BDE05389320F' `
     -checksumType 'sha256'
