@@ -4,7 +4,7 @@
 <metadata>
   <id>tonelib-gfx</id>
   <title>ToneLib GFX</title>
-  <version>4.4.0</version>
+  <version>4.5.2</version>
   <authors>ToneLib</authors>
   <owners>mica</owners>
   <projectUrl>https://tonelib.net/gfx-overview/</projectUrl>
@@ -12,7 +12,7 @@
   <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/5210252e362530219a01c1050c925c0eb2951411/ToneLib-GFX/icon.png</iconUrl>
   <tags>guitar audio effects plugin vst trial</tags>
   <summary>Audio effects and amp modeling software</summary>
-  <releaseNotes>https://tonelib.net/forums/threads/8272/</releaseNotes>
+  <releaseNotes>https://tonelib.net/forums/forums/7</releaseNotes>
   <description>
 What is Tonelib GFX?
 ---
