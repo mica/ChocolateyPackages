@@ -4,7 +4,7 @@
 <metadata>
   <id>infekt</id>
   <title>iNFekt NFO Viewer</title>
-  <version>1.0.1</version>
+  <version>1.2.0</version>
   <authors>syndicode</authors>
   <owners>mica</owners>
   <projectUrl>https://infekt.ws</projectUrl>
@@ -15,23 +15,13 @@
   <licenseUrl>https://raw.githubusercontent.com/syndicodefront/infekt/master/LICENSE.txt</licenseUrl>
   <tags>nfo ansi ascii art text</tags>
   <summary>The ultimate best NFO viewer, ever!</summary>
-  <description>A text viewer application that has been carefully designed around its main task: viewing and presenting [NFO files](https://en.wikipedia.org/wiki/.nfo). It comes with three different view modes (Rendered, Classic and Text Only), export functionality and lots of options! All Windows versions starting with Windows XP are supported. iNFekt works very well with any Windows version and is available in a native 64 bit flavor.
+  <releaseNotes>https://github.com/syndicodefront/infekt/blob/master/ChangeLog.md</releaseNotes>
+  <description>
+A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files. It comes with three different view modes (Rendered, Classic and Text Only), export functionality and lots of options!
 
-## Key features
-* Display NFO files of all common charsets (including CP 437 and Unicode)
-* Fix and display many broken encodings that other viewers choke on
-* You can fine-tune colors for text, background, block art and more
-* Clickable hyperlinks, including links that span multiple lines
-* Enhanced rendering mode / Classic mode / Text-only mode
-* Basic ANSI Art support (16+ colors)
-* Anti-aliasing
-* Built-in zoom
-* Export functionality
-* Auto-refresh and browse folder features
-* Integrated updater
-* Free and Open Source
-* Portable versions available
-* Command line version for easy conversions to PNG, Unicode, HTML, PDF...
+The GUI version works on Windows 10 and up. You can use previous iNFekt versions for Windows 2000, XP, 7. The CLI version is supported on Windows and Linux.
+
+iNFekt is a native application written in C++. It uses the Cairo open source graphics libraries. Where available, rendering uses multi-core CPUs and is accelerated by GPU hardware.
   </description>
 </metadata>
 <files>

@@ -2,6 +2,6 @@ Install-ChocolateyPackage `
     'infekt' `
     'exe' `
     '/verysilent /norestart /tasks="nfoassoc,dizassoc,ansiassoc,cppredist2017"' `
-    'https://syndicode.org/infekt/downloads/v1.0.1/iNFekt-v1.0.1-setup.exe' `
-    -checksum 'CFE3B5639BAAE17301645E946386FFCEBD3C246CA164E8999409082C0107531D' `
+    'https://syndicode.org/infekt/downloads/v1.2.0/iNFekt-v1.2.0-setup.exe' `
+    -checksum '48F496F6FD14EE872B240B2A03E2008ED541F69F4709037407F789057B3FFC77' `
     -checksumType 'sha256'
