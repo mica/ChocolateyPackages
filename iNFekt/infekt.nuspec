@@ -2,29 +2,28 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 <metadata>
-  <id>infekt</id>
-  <title>iNFekt NFO Viewer</title>
-  <version>1.2.0</version>
-  <authors>syndicode</authors>
-  <owners>mica</owners>
-  <projectUrl>https://infekt.ws</projectUrl>
-  <projectSourceUrl>https://github.com/syndicodefront/infekt</projectSourceUrl>
-  <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/iNFekt</packageSourceUrl>
-  <bugTrackerUrl>https://github.com/syndicodefront/infekt/issues</bugTrackerUrl>
-  <iconUrl>https://raw.githubusercontent.com/syndicodefront/infekt/master/release/PortableApps/App/AppInfo/appicon_128.png</iconUrl>
-  <licenseUrl>https://raw.githubusercontent.com/syndicodefront/infekt/master/LICENSE.txt</licenseUrl>
-  <tags>nfo ansi ascii art text</tags>
-  <summary>The ultimate best NFO viewer, ever!</summary>
-  <releaseNotes>https://github.com/syndicodefront/infekt/blob/master/ChangeLog.md</releaseNotes>
-  <description>
-A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files. It comes with three different view modes (Rendered, Classic and Text Only), export functionality and lots of options!
+<id>infekt</id>
+<title>iNFekt NFO Viewer</title>
+<summary>Text viewer for .nfo files</summary>
+<version>1.3.0</version>
+<authors>syndicode</authors>
+<owners>mica</owners>
+<projectUrl>https://infekt.ws</projectUrl>
+<projectSourceUrl>https://github.com/syndicodefront/infekt</projectSourceUrl>
+<packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/iNFekt</packageSourceUrl>
+<bugTrackerUrl>https://github.com/syndicodefront/infekt/issues</bugTrackerUrl>
+<iconUrl>https://rawcdn.githack.com/syndicodefront/infekt/cc99c16139eb19b48bda187e1208b7677eb5c024/release/PortableApps/App/AppInfo/appicon_128.png</iconUrl>
+<licenseUrl>https://raw.githubusercontent.com/syndicodefront/infekt/master/LICENSE.txt</licenseUrl>
+<tags>nfo ansi ascii art text</tags>
+<releaseNotes>https://github.com/syndicodefront/infekt/blob/master/ChangeLog.md</releaseNotes>
+<description>A text viewer application that has been carefully designed around its main task: viewing and presenting [NFO files](http://en.wikipedia.org/wiki/.nfo). It comes with three different view modes (Rendered, Classic and Text Only), export functionality and lots of options!
 
 The GUI version works on Windows 10 and up. You can use previous iNFekt versions for Windows 2000, XP, 7. The CLI version is supported on Windows and Linux.
 
-iNFekt is a native application written in C++. It uses the Cairo open source graphics libraries. Where available, rendering uses multi-core CPUs and is accelerated by GPU hardware.
-  </description>
+iNFekt is a native application written in C++. It uses the Cairo open source graphics libraries. Where available, rendering uses multi-core CPUs and is accelerated by GPU hardware.</description>
 </metadata>
 <files>
   <file src="tools\chocolateyInstall.ps1" target="tools" />
+  <file src="tools\chocolateyUninstall.ps1" target="tools" />
 </files>
 </package>

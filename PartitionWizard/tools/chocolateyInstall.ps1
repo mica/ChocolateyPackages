@@ -2,5 +2,5 @@ Install-ChocolateyPackage `
     -PackageName 'partitionwizard' `
     -SilentArgs '/VERYSILENT' `
     -Url 'https://cdn2.minitool.com/?p=pw&e=pw-free-offline' `
-    -Checksum '0C98CB6B2351F023F08B5B6633DA0FC7C8A2588396E0D2C54E4B17509F8BA22E' `
+    -Checksum '9E6BAA48D5400CF73D7DD48FF2669C701F37FED303BCF70AB5608239D69D4DB5' `
     -ChecksumType 'sha256'
