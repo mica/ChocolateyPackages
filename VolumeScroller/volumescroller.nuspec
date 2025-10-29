@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+    <id>volumescroller</id>
+    <title>Volume Scroller</title>
+    <version>2.2.2</version>
+    <authors>Patrick Demichiel</authors>
+    <owners>mica</owners>
+    <projectUrl>https://github.com/patrickiel/VolumeScroller</projectUrl>
+    <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/VolumeScroller</packageSourceUrl>
+    <docsUrl>https://github.com/patrickiel/VolumeScroller/blob/main/README.md</docsUrl>
+    <licenseUrl>https://github.com/patrickiel/VolumeScroller/blob/main/LICENSE</licenseUrl>
+    <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/refs/heads/master/VolumeScroller/icon.png</iconUrl>
+    <tags>volume scroll taskbar</tags>
+    <summary>Quickly change the volume by scrolling</summary>
+    <description>
+## Features
+- Three operation modes:
+    1. Taskbar - Works with both visible and hidden taskbar
+    2. Taskbar Visible - Move the mouse over the visible taskbar and scroll up or down (requires taskbar to be visible)
+    3. Screen Edges - Change volume by scrolling near the screen edges (configurable for all four corners)
+- Run on startup (customizable)
+- Custom volume increment
+- Multi-monitor support
+- Taskbar at different positions and sizes is supported
+- Auto Dark Mode support (for tray icon)
+    </description>
+    <releaseNotes>
+[Changelog](https://github.com/patrickiel/VolumeScroller/releases)
+    </releaseNotes>
+</metadata>
+<files>
+    <file src="tools\chocolateyInstall.ps1" target="tools" />
+</files>
+</package>
