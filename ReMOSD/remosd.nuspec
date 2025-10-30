@@ -24,5 +24,7 @@ ReMOSD is an optimized application to hide Windows Media on screen display (OSD)
     <file src="tools\chocolateyInstall.ps1" target="tools" />
     <file src="tools\chocolateyBeforeModify.ps1" target="tools" />
     <file src="tools\ReMOSD.exe" target="tools" />
+    <file src="tools\LICENSE.txt" target="tools" />
+    <file src="tools\VERIFICATION.txt" target="tools" />
 </files>
 </package>
