@@ -1,0 +1,15 @@
+VERIFICATION
+
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Package can be verified like this:
+
+1. Download: https://github.com/qt-kaneko/ReMOSD/releases/download/3.4/ReVOSD.exe
+
+2. You can use one of the following methods to obtain the SHA256 checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+   checksum: 3B2228402E4AE9DB9108C0F6499D67BBD72A6DA4B8A269781B548AA5C9E23CC8
+   checksumType: sha256
