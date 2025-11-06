@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+    <id>mongoose</id>
+    <title>Mongoose Web Server</title>
+    <version>7.18</version>
+    <authors>Cesanta</authors>
+    <owners>mica</owners>
+    <projectUrl>https://mongoose.ws/</projectUrl>
+    <projectSourceUrl>https://github.com/cesanta/mongoose</projectSourceUrl>
+    <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/Mongoose</packageSourceUrl>
+    <licenseUrl>https://github.com/cesanta/mongoose/blob/master/LICENSE</licenseUrl>
+    <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/61aa9b64d2e54408cb658267fd6f1bcc5b04bc49/Mongoose/icon.png</iconUrl>
+    <tags>webserver server http websocket mqtt</tags>
+    <summary>Embedded web server, with TCP/IP network stack, MQTT and Websocket</summary>
+    <description>
+Mongoose is a network library for C/C++. It provides event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT, and other protocols.
+
+When the server is started, point your browser to http://localhost:8000.
+    </description>
+    <releaseNotes>
+[Changelog](https://github.com/cesanta/mongoose/releases)
+    </releaseNotes>
+</metadata>
+<files>
+    <file src="tools\mongoose.exe" target="tools" />
+    <file src="tools\LICENSE.txt" target="tools" />
+    <file src="tools\VERIFICATION.txt" target="tools" />
+</files>
+</package>
