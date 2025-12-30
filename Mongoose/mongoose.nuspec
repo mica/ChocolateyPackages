@@ -4,7 +4,7 @@
 <metadata>
     <id>mongoose</id>
     <title>Mongoose Web Server</title>
-    <version>7.18</version>
+    <version>7.20</version>
     <authors>Cesanta</authors>
     <owners>mica</owners>
     <projectUrl>https://mongoose.ws/</projectUrl>
@@ -17,7 +17,7 @@
     <description>
 Mongoose is a network library for C/C++. It provides event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT, and other protocols.
 
-When the server is started, point your browser to http://localhost:8000.
+When the server is started, point your browser to http://localhost:8000. Your working directory is the document root unless specified with: -d *filepath*
     </description>
     <releaseNotes>
 [Changelog](https://github.com/cesanta/mongoose/releases)

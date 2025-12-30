@@ -4,18 +4,20 @@
 <metadata>
     <id>partitionwizard</id>
     <title>MiniTool Partition Wizard Free</title>
-    <version>13.0</version>
+    <version>13.5</version>
     <authors>MiniTool Software Ltd.</authors>
     <owners>dtgm, mica</owners>
     <projectUrl>https://www.partitionwizard.com/free-partition-manager.html</projectUrl>
     <packageSourceUrl>https://github.com/mica/ChocolateyPackages/tree/master/PartitionWizard</packageSourceUrl>
     <docsUrl>https://www.partitionwizard.com/help/</docsUrl>
     <licenseUrl>https://www.partitionwizard.com/terms_conditions.html</licenseUrl>
-    <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/80f8904b2bfb9523d4ab8c405fa5792c2dd6b6dc/PartitionWizard/icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/mica/ChocolateyPackages/refs/heads/master/PartitionWizard/icon.png</iconUrl>
     <tags>filesystem partition disk tools admin</tags>
-    <summary>Free partition manager</summary>
+    <summary>Free disk partition manager</summary>
     <description>
-MiniTool Partition Wizard Free helps users to manage disks and partitions, check file system, align SSD partition, migrate OS to SSD, clone disk, convert MBR to GPT, etc.
+- All-inclusive free partition manager to organize disk partitions to get the best of your hard drive
+- Check disk usage with Space Analyzer and free up space with Duplicate Cleaner
+- Fully compatible with Windows 11/10/8.1/8/7 all editions
     </description>
     <releaseNotes>
 [Changelog](https://www.partitionwizard.com/upgrade-history.html)
