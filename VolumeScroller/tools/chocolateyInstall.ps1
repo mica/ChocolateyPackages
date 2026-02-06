@@ -1,6 +1,6 @@
 Install-ChocolateyPackage `
     -PackageName 'volumescroller' `
     -SilentArgs '/VERYSILENT' `
-    -Url 'https://github.com/patrickiel/VolumeScroller/releases/download/2.2.2/Volume.Scroller.2.2.2.exe' `
-    -Checksum 'B2593C79B567B2ED6C2A69CA70D32C3DBACAE291D6F0EED3A540EED2EBD222A1' `
+    -Url 'https://github.com/patrickiel/VolumeScroller/releases/download/2.3.0/Volume.Scroller.2.3.0.exe' `
+    -Checksum 'AD8FC679A8ECDB627A4954DDD5D0BB7575066CBFEC17770D0637BB7B17D91CDC' `
     -ChecksumType 'sha256'
